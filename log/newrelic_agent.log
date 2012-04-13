@@ -1,0 +1,276 @@
+# Logfile created on Wed Apr 11 14:13:40 +0530 2012 by logger.rb/1.2.6
+[04/11/12 14:13:40 +0530 seeker-kuliza (26079)] INFO : Dispatcher: webrick
+[04/11/12 14:13:40 +0530 seeker-kuliza (26079)] INFO : Application: Graylog2
+[04/11/12 14:13:40 +0530 seeker-kuliza (26079)] ERROR : Invalid license key: here
+[04/11/12 14:13:40 +0530 seeker-kuliza (26079)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 26079
+[04/11/12 14:13:40 +0530 seeker-kuliza (26079)] INFO : Agent Log at /home/seeker/katana/graylog2/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/11/12 14:38:54 +0530 seeker-kuliza (27134)] INFO : Dispatcher: webrick
+[04/11/12 14:38:54 +0530 seeker-kuliza (27134)] INFO : Application: Graylog2
+[04/11/12 14:38:54 +0530 seeker-kuliza (27134)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[04/11/12 14:38:54 +0530 seeker-kuliza (27134)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 27134
+[04/11/12 14:38:54 +0530 seeker-kuliza (27134)] INFO : Agent Log at /home/seeker/katana/graylog2/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/11/12 14:49:31 +0530 seeker-kuliza (27518)] INFO : Dispatcher: webrick
+[04/11/12 14:49:31 +0530 seeker-kuliza (27518)] INFO : Application: Graylog2
+[04/11/12 14:49:31 +0530 seeker-kuliza (27518)] ERROR : Invalid license key: here
+[04/11/12 14:49:31 +0530 seeker-kuliza (27518)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 27518
+[04/11/12 14:49:31 +0530 seeker-kuliza (27518)] INFO : Agent Log at /home/seeker/katana/graylog2/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/11/12 15:13:38 +0530 seeker-kuliza (28475)] INFO : Dispatcher: webrick
+[04/11/12 15:13:38 +0530 seeker-kuliza (28475)] INFO : Application: Graylog2
+[04/11/12 15:13:38 +0530 seeker-kuliza (28475)] ERROR : Invalid license key: here
+[04/11/12 15:13:38 +0530 seeker-kuliza (28475)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 28475
+[04/11/12 15:13:38 +0530 seeker-kuliza (28475)] INFO : Agent Log at /home/seeker/katana/graylog2/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/12/12 12:21:34 +0530 seeker-kuliza (7665)] INFO : Dispatcher: webrick
+[04/12/12 12:21:34 +0530 seeker-kuliza (7665)] INFO : Application: Graylog2
+[04/12/12 12:21:34 +0530 seeker-kuliza (7665)] ERROR : Invalid license key: here
+[04/12/12 12:21:34 +0530 seeker-kuliza (7665)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7665
+[04/12/12 12:21:34 +0530 seeker-kuliza (7665)] INFO : Agent Log at /home/seeker/katana/graylog2/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/12/12 13:01:41 +0530 seeker-kuliza (9024)] INFO : Dispatcher: webrick
+[04/12/12 13:01:41 +0530 seeker-kuliza (9024)] INFO : Application: Graylog2
+[04/12/12 13:01:41 +0530 seeker-kuliza (9024)] ERROR : Invalid license key: here
+[04/12/12 13:01:41 +0530 seeker-kuliza (9024)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9024
+[04/12/12 13:01:41 +0530 seeker-kuliza (9024)] INFO : Agent Log at /home/seeker/katana/graylog2/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/12/12 17:34:59 +0530 seeker-kuliza (17953)] INFO : Dispatcher: webrick
+[04/12/12 17:34:59 +0530 seeker-kuliza (17953)] INFO : Application: Graylog2
+[04/12/12 17:34:59 +0530 seeker-kuliza (17953)] ERROR : Invalid license key: here
+[04/12/12 17:34:59 +0530 seeker-kuliza (17953)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 17953
+[04/12/12 17:34:59 +0530 seeker-kuliza (17953)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 00:10:25 +0530 seeker-kuliza (27066)] INFO : Dispatcher: webrick
+[04/13/12 00:10:25 +0530 seeker-kuliza (27066)] INFO : Application: Graylog2
+[04/13/12 00:10:25 +0530 seeker-kuliza (27066)] ERROR : Invalid license key: here
+[04/13/12 00:10:25 +0530 seeker-kuliza (27066)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 27066
+[04/13/12 00:10:25 +0530 seeker-kuliza (27066)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 00:13:33 +0530 seeker-kuliza (27195)] INFO : Dispatcher: webrick
+[04/13/12 00:13:33 +0530 seeker-kuliza (27195)] INFO : Application: Graylog2
+[04/13/12 00:13:33 +0530 seeker-kuliza (27195)] ERROR : Invalid license key: here
+[04/13/12 00:13:33 +0530 seeker-kuliza (27195)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 27195
+[04/13/12 00:13:33 +0530 seeker-kuliza (27195)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 00:57:17 +0530 seeker-kuliza (28598)] INFO : Dispatcher: webrick
+[04/13/12 00:57:17 +0530 seeker-kuliza (28598)] INFO : Application: Graylog2
+[04/13/12 00:57:17 +0530 seeker-kuliza (28598)] ERROR : Invalid license key: here
+[04/13/12 00:57:17 +0530 seeker-kuliza (28598)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 28598
+[04/13/12 00:57:17 +0530 seeker-kuliza (28598)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:38:51 +0530 seeker-kuliza (30825)] INFO : Dispatcher: webrick
+[04/13/12 01:38:51 +0530 seeker-kuliza (30825)] INFO : Application: Graylog2
+[04/13/12 01:38:51 +0530 seeker-kuliza (30825)] ERROR : Invalid license key: here
+[04/13/12 01:38:51 +0530 seeker-kuliza (30825)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30825
+[04/13/12 01:38:51 +0530 seeker-kuliza (30825)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:40:52 +0530 seeker-kuliza (30891)] INFO : Dispatcher: webrick
+[04/13/12 01:40:52 +0530 seeker-kuliza (30891)] INFO : Application: Graylog2
+[04/13/12 01:40:52 +0530 seeker-kuliza (30891)] ERROR : Invalid license key: here
+[04/13/12 01:40:52 +0530 seeker-kuliza (30891)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30891
+[04/13/12 01:40:52 +0530 seeker-kuliza (30891)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:42:17 +0530 seeker-kuliza (30931)] INFO : Dispatcher: webrick
+[04/13/12 01:42:17 +0530 seeker-kuliza (30931)] INFO : Application: Graylog2
+[04/13/12 01:42:17 +0530 seeker-kuliza (30931)] ERROR : Invalid license key: here
+[04/13/12 01:42:17 +0530 seeker-kuliza (30931)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30931
+[04/13/12 01:42:17 +0530 seeker-kuliza (30931)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:44:30 +0530 seeker-kuliza (30997)] INFO : Dispatcher: webrick
+[04/13/12 01:44:30 +0530 seeker-kuliza (30997)] INFO : Application: Graylog2
+[04/13/12 01:44:30 +0530 seeker-kuliza (30997)] ERROR : Invalid license key: here
+[04/13/12 01:44:30 +0530 seeker-kuliza (30997)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30997
+[04/13/12 01:44:30 +0530 seeker-kuliza (30997)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:45:17 +0530 seeker-kuliza (31020)] INFO : Dispatcher: webrick
+[04/13/12 01:45:17 +0530 seeker-kuliza (31020)] INFO : Application: Graylog2
+[04/13/12 01:45:17 +0530 seeker-kuliza (31020)] ERROR : Invalid license key: here
+[04/13/12 01:45:17 +0530 seeker-kuliza (31020)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31020
+[04/13/12 01:45:17 +0530 seeker-kuliza (31020)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:48:26 +0530 seeker-kuliza (31114)] INFO : Dispatcher: webrick
+[04/13/12 01:48:26 +0530 seeker-kuliza (31114)] INFO : Application: Graylog2
+[04/13/12 01:48:26 +0530 seeker-kuliza (31114)] ERROR : Invalid license key: here
+[04/13/12 01:48:26 +0530 seeker-kuliza (31114)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31114
+[04/13/12 01:48:26 +0530 seeker-kuliza (31114)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:49:23 +0530 seeker-kuliza (31142)] INFO : Dispatcher: webrick
+[04/13/12 01:49:23 +0530 seeker-kuliza (31142)] INFO : Application: Graylog2
+[04/13/12 01:49:23 +0530 seeker-kuliza (31142)] ERROR : Invalid license key: here
+[04/13/12 01:49:23 +0530 seeker-kuliza (31142)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31142
+[04/13/12 01:49:23 +0530 seeker-kuliza (31142)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:52:03 +0530 seeker-kuliza (31217)] INFO : Dispatcher: webrick
+[04/13/12 01:52:03 +0530 seeker-kuliza (31217)] INFO : Application: Graylog2
+[04/13/12 01:52:03 +0530 seeker-kuliza (31217)] ERROR : Invalid license key: here
+[04/13/12 01:52:03 +0530 seeker-kuliza (31217)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31217
+[04/13/12 01:52:03 +0530 seeker-kuliza (31217)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:52:37 +0530 seeker-kuliza (31236)] INFO : Dispatcher: webrick
+[04/13/12 01:52:37 +0530 seeker-kuliza (31236)] INFO : Application: Graylog2
+[04/13/12 01:52:37 +0530 seeker-kuliza (31236)] ERROR : Invalid license key: here
+[04/13/12 01:52:37 +0530 seeker-kuliza (31236)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31236
+[04/13/12 01:52:37 +0530 seeker-kuliza (31236)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 01:56:48 +0530 seeker-kuliza (31356)] INFO : Dispatcher: webrick
+[04/13/12 01:56:48 +0530 seeker-kuliza (31356)] INFO : Application: Graylog2
+[04/13/12 01:56:48 +0530 seeker-kuliza (31356)] ERROR : Invalid license key: here
+[04/13/12 01:56:48 +0530 seeker-kuliza (31356)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31356
+[04/13/12 01:56:48 +0530 seeker-kuliza (31356)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:05:36 +0530 seeker-kuliza (31659)] INFO : Dispatcher: webrick
+[04/13/12 02:05:36 +0530 seeker-kuliza (31659)] INFO : Application: Graylog2
+[04/13/12 02:05:36 +0530 seeker-kuliza (31659)] ERROR : Invalid license key: here
+[04/13/12 02:05:36 +0530 seeker-kuliza (31659)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31659
+[04/13/12 02:05:36 +0530 seeker-kuliza (31659)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:06:38 +0530 seeker-kuliza (31689)] INFO : Dispatcher: webrick
+[04/13/12 02:06:38 +0530 seeker-kuliza (31689)] INFO : Application: Graylog2
+[04/13/12 02:06:38 +0530 seeker-kuliza (31689)] ERROR : Invalid license key: here
+[04/13/12 02:06:38 +0530 seeker-kuliza (31689)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31689
+[04/13/12 02:06:38 +0530 seeker-kuliza (31689)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:13:02 +0530 seeker-kuliza (31877)] INFO : Dispatcher: webrick
+[04/13/12 02:13:02 +0530 seeker-kuliza (31877)] INFO : Application: Graylog2
+[04/13/12 02:13:02 +0530 seeker-kuliza (31877)] ERROR : Invalid license key: here
+[04/13/12 02:13:02 +0530 seeker-kuliza (31877)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31877
+[04/13/12 02:13:02 +0530 seeker-kuliza (31877)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:14:25 +0530 seeker-kuliza (31917)] INFO : Dispatcher: webrick
+[04/13/12 02:14:25 +0530 seeker-kuliza (31917)] INFO : Application: Graylog2
+[04/13/12 02:14:25 +0530 seeker-kuliza (31917)] ERROR : Invalid license key: here
+[04/13/12 02:14:25 +0530 seeker-kuliza (31917)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31917
+[04/13/12 02:14:25 +0530 seeker-kuliza (31917)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:17:41 +0530 seeker-kuliza (32015)] INFO : Dispatcher: webrick
+[04/13/12 02:17:41 +0530 seeker-kuliza (32015)] INFO : Application: Graylog2
+[04/13/12 02:17:41 +0530 seeker-kuliza (32015)] ERROR : Invalid license key: here
+[04/13/12 02:17:41 +0530 seeker-kuliza (32015)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 32015
+[04/13/12 02:17:41 +0530 seeker-kuliza (32015)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:27:29 +0530 seeker-kuliza (32276)] INFO : Dispatcher: webrick
+[04/13/12 02:27:29 +0530 seeker-kuliza (32276)] INFO : Application: Graylog2
+[04/13/12 02:27:29 +0530 seeker-kuliza (32276)] ERROR : Invalid license key: here
+[04/13/12 02:27:29 +0530 seeker-kuliza (32276)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 32276
+[04/13/12 02:27:29 +0530 seeker-kuliza (32276)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:29:54 +0530 seeker-kuliza (32489)] INFO : Dispatcher: webrick
+[04/13/12 02:29:54 +0530 seeker-kuliza (32489)] INFO : Application: Graylog2
+[04/13/12 02:29:54 +0530 seeker-kuliza (32489)] ERROR : Invalid license key: here
+[04/13/12 02:29:54 +0530 seeker-kuliza (32489)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 32489
+[04/13/12 02:29:54 +0530 seeker-kuliza (32489)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:34:25 +0530 seeker-kuliza (32617)] INFO : Dispatcher: webrick
+[04/13/12 02:34:25 +0530 seeker-kuliza (32617)] INFO : Application: Graylog2
+[04/13/12 02:34:25 +0530 seeker-kuliza (32617)] ERROR : Invalid license key: here
+[04/13/12 02:34:25 +0530 seeker-kuliza (32617)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 32617
+[04/13/12 02:34:25 +0530 seeker-kuliza (32617)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:37:49 +0530 seeker-kuliza (32711)] INFO : Dispatcher: webrick
+[04/13/12 02:37:49 +0530 seeker-kuliza (32711)] INFO : Application: Graylog2
+[04/13/12 02:37:49 +0530 seeker-kuliza (32711)] ERROR : Invalid license key: here
+[04/13/12 02:37:49 +0530 seeker-kuliza (32711)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 32711
+[04/13/12 02:37:49 +0530 seeker-kuliza (32711)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:40:29 +0530 seeker-kuliza (336)] INFO : Dispatcher: webrick
+[04/13/12 02:40:29 +0530 seeker-kuliza (336)] INFO : Application: Graylog2
+[04/13/12 02:40:29 +0530 seeker-kuliza (336)] ERROR : Invalid license key: here
+[04/13/12 02:40:29 +0530 seeker-kuliza (336)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 336
+[04/13/12 02:40:29 +0530 seeker-kuliza (336)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:56:08 +0530 seeker-kuliza (794)] INFO : Dispatcher: webrick
+[04/13/12 02:56:08 +0530 seeker-kuliza (794)] INFO : Application: Graylog2
+[04/13/12 02:56:08 +0530 seeker-kuliza (794)] ERROR : Invalid license key: here
+[04/13/12 02:56:08 +0530 seeker-kuliza (794)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 794
+[04/13/12 02:56:08 +0530 seeker-kuliza (794)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 02:58:55 +0530 seeker-kuliza (877)] INFO : Dispatcher: webrick
+[04/13/12 02:58:55 +0530 seeker-kuliza (877)] INFO : Application: Graylog2
+[04/13/12 02:58:55 +0530 seeker-kuliza (877)] ERROR : Invalid license key: here
+[04/13/12 02:58:55 +0530 seeker-kuliza (877)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 877
+[04/13/12 02:58:55 +0530 seeker-kuliza (877)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 03:00:20 +0530 seeker-kuliza (935)] INFO : Dispatcher: webrick
+[04/13/12 03:00:20 +0530 seeker-kuliza (935)] INFO : Application: Graylog2
+[04/13/12 03:00:20 +0530 seeker-kuliza (935)] ERROR : Invalid license key: here
+[04/13/12 03:00:20 +0530 seeker-kuliza (935)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 935
+[04/13/12 03:00:20 +0530 seeker-kuliza (935)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 03:01:35 +0530 seeker-kuliza (1014)] INFO : Dispatcher: webrick
+[04/13/12 03:01:35 +0530 seeker-kuliza (1014)] INFO : Application: Graylog2
+[04/13/12 03:01:35 +0530 seeker-kuliza (1014)] ERROR : Invalid license key: here
+[04/13/12 03:01:35 +0530 seeker-kuliza (1014)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 1014
+[04/13/12 03:01:35 +0530 seeker-kuliza (1014)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 03:19:59 +0530 seeker-kuliza (1700)] INFO : Dispatcher: webrick
+[04/13/12 03:19:59 +0530 seeker-kuliza (1700)] INFO : Application: Graylog2
+[04/13/12 03:19:59 +0530 seeker-kuliza (1700)] ERROR : Invalid license key: here
+[04/13/12 03:19:59 +0530 seeker-kuliza (1700)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 1700
+[04/13/12 03:19:59 +0530 seeker-kuliza (1700)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 04:10:52 +0530 seeker-kuliza (3425)] INFO : Dispatcher: webrick
+[04/13/12 04:10:52 +0530 seeker-kuliza (3425)] INFO : Application: Graylog2
+[04/13/12 04:10:52 +0530 seeker-kuliza (3425)] ERROR : Invalid license key: here
+[04/13/12 04:10:52 +0530 seeker-kuliza (3425)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 3425
+[04/13/12 04:10:52 +0530 seeker-kuliza (3425)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 11:37:12 +0530 seeker-kuliza (5046)] INFO : Dispatcher: webrick
+[04/13/12 11:37:12 +0530 seeker-kuliza (5046)] INFO : Application: Graylog2
+[04/13/12 11:37:12 +0530 seeker-kuliza (5046)] ERROR : Invalid license key: here
+[04/13/12 11:37:12 +0530 seeker-kuliza (5046)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5046
+[04/13/12 11:37:12 +0530 seeker-kuliza (5046)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 11:41:42 +0530 seeker-kuliza (5195)] INFO : Dispatcher: webrick
+[04/13/12 11:41:42 +0530 seeker-kuliza (5195)] INFO : Application: Graylog2
+[04/13/12 11:41:42 +0530 seeker-kuliza (5195)] ERROR : Invalid license key: here
+[04/13/12 11:41:42 +0530 seeker-kuliza (5195)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5195
+[04/13/12 11:41:42 +0530 seeker-kuliza (5195)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 11:51:20 +0530 seeker-kuliza (5530)] INFO : Dispatcher: webrick
+[04/13/12 11:51:20 +0530 seeker-kuliza (5530)] INFO : Application: Graylog2
+[04/13/12 11:51:20 +0530 seeker-kuliza (5530)] ERROR : Invalid license key: here
+[04/13/12 11:51:20 +0530 seeker-kuliza (5530)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5530
+[04/13/12 11:51:20 +0530 seeker-kuliza (5530)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 11:55:31 +0530 seeker-kuliza (6193)] INFO : Dispatcher: webrick
+[04/13/12 11:55:31 +0530 seeker-kuliza (6193)] INFO : Application: Graylog2
+[04/13/12 11:55:31 +0530 seeker-kuliza (6193)] ERROR : Invalid license key: here
+[04/13/12 11:55:31 +0530 seeker-kuliza (6193)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6193
+[04/13/12 11:55:31 +0530 seeker-kuliza (6193)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 11:57:03 +0530 seeker-kuliza (6246)] INFO : Dispatcher: webrick
+[04/13/12 11:57:03 +0530 seeker-kuliza (6246)] INFO : Application: Graylog2
+[04/13/12 11:57:03 +0530 seeker-kuliza (6246)] ERROR : Invalid license key: here
+[04/13/12 11:57:03 +0530 seeker-kuliza (6246)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6246
+[04/13/12 11:57:03 +0530 seeker-kuliza (6246)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 11:58:04 +0530 seeker-kuliza (6279)] INFO : Dispatcher: webrick
+[04/13/12 11:58:04 +0530 seeker-kuliza (6279)] INFO : Application: Graylog2
+[04/13/12 11:58:04 +0530 seeker-kuliza (6279)] ERROR : Invalid license key: here
+[04/13/12 11:58:04 +0530 seeker-kuliza (6279)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6279
+[04/13/12 11:58:04 +0530 seeker-kuliza (6279)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 12:02:31 +0530 seeker-kuliza (6799)] INFO : Dispatcher: webrick
+[04/13/12 12:02:31 +0530 seeker-kuliza (6799)] INFO : Application: Graylog2
+[04/13/12 12:02:31 +0530 seeker-kuliza (6799)] ERROR : Invalid license key: here
+[04/13/12 12:02:31 +0530 seeker-kuliza (6799)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6799
+[04/13/12 12:02:31 +0530 seeker-kuliza (6799)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 12:11:59 +0530 seeker-kuliza (7072)] INFO : Dispatcher: webrick
+[04/13/12 12:11:59 +0530 seeker-kuliza (7072)] INFO : Application: Graylog2
+[04/13/12 12:11:59 +0530 seeker-kuliza (7072)] ERROR : Invalid license key: here
+[04/13/12 12:11:59 +0530 seeker-kuliza (7072)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7072
+[04/13/12 12:11:59 +0530 seeker-kuliza (7072)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 13:07:38 +0530 seeker-kuliza (8584)] INFO : Dispatcher: webrick
+[04/13/12 13:07:38 +0530 seeker-kuliza (8584)] INFO : Application: Graylog2
+[04/13/12 13:07:38 +0530 seeker-kuliza (8584)] ERROR : Invalid license key: here
+[04/13/12 13:07:38 +0530 seeker-kuliza (8584)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8584
+[04/13/12 13:07:38 +0530 seeker-kuliza (8584)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 13:08:53 +0530 seeker-kuliza (8622)] INFO : Dispatcher: webrick
+[04/13/12 13:08:53 +0530 seeker-kuliza (8622)] INFO : Application: Graylog2
+[04/13/12 13:08:53 +0530 seeker-kuliza (8622)] ERROR : Invalid license key: here
+[04/13/12 13:08:53 +0530 seeker-kuliza (8622)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8622
+[04/13/12 13:08:53 +0530 seeker-kuliza (8622)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 13:49:05 +0530 seeker-kuliza (10145)] INFO : Dispatcher: webrick
+[04/13/12 13:49:05 +0530 seeker-kuliza (10145)] INFO : Application: Graylog2
+[04/13/12 13:49:05 +0530 seeker-kuliza (10145)] ERROR : Invalid license key: here
+[04/13/12 13:49:05 +0530 seeker-kuliza (10145)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10145
+[04/13/12 13:49:05 +0530 seeker-kuliza (10145)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 13:55:08 +0530 seeker-kuliza (10320)] INFO : Dispatcher: webrick
+[04/13/12 13:55:08 +0530 seeker-kuliza (10320)] INFO : Application: Graylog2
+[04/13/12 13:55:08 +0530 seeker-kuliza (10320)] ERROR : Invalid license key: here
+[04/13/12 13:55:08 +0530 seeker-kuliza (10320)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10320
+[04/13/12 13:55:08 +0530 seeker-kuliza (10320)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 14:13:53 +0530 seeker-kuliza (10884)] INFO : Dispatcher: webrick
+[04/13/12 14:13:53 +0530 seeker-kuliza (10884)] INFO : Application: Graylog2
+[04/13/12 14:13:53 +0530 seeker-kuliza (10884)] ERROR : Invalid license key: here
+[04/13/12 14:13:53 +0530 seeker-kuliza (10884)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10884
+[04/13/12 14:13:53 +0530 seeker-kuliza (10884)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 14:17:01 +0530 seeker-kuliza (10970)] INFO : Dispatcher: webrick
+[04/13/12 14:17:01 +0530 seeker-kuliza (10970)] INFO : Application: Graylog2
+[04/13/12 14:17:01 +0530 seeker-kuliza (10970)] ERROR : Invalid license key: here
+[04/13/12 14:17:01 +0530 seeker-kuliza (10970)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10970
+[04/13/12 14:17:01 +0530 seeker-kuliza (10970)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 14:20:03 +0530 seeker-kuliza (11069)] INFO : Dispatcher: webrick
+[04/13/12 14:20:03 +0530 seeker-kuliza (11069)] INFO : Application: Graylog2
+[04/13/12 14:20:03 +0530 seeker-kuliza (11069)] ERROR : Invalid license key: here
+[04/13/12 14:20:03 +0530 seeker-kuliza (11069)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 11069
+[04/13/12 14:20:03 +0530 seeker-kuliza (11069)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 14:33:34 +0530 seeker-kuliza (11507)] INFO : Dispatcher: webrick
+[04/13/12 14:33:34 +0530 seeker-kuliza (11507)] INFO : Application: Graylog2
+[04/13/12 14:33:34 +0530 seeker-kuliza (11507)] ERROR : Invalid license key: here
+[04/13/12 14:33:34 +0530 seeker-kuliza (11507)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 11507
+[04/13/12 14:33:34 +0530 seeker-kuliza (11507)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 14:34:16 +0530 seeker-kuliza (11533)] INFO : Dispatcher: webrick
+[04/13/12 14:34:16 +0530 seeker-kuliza (11533)] INFO : Application: Graylog2
+[04/13/12 14:34:16 +0530 seeker-kuliza (11533)] ERROR : Invalid license key: here
+[04/13/12 14:34:16 +0530 seeker-kuliza (11533)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 11533
+[04/13/12 14:34:16 +0530 seeker-kuliza (11533)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/13/12 15:18:03 +0530 seeker-kuliza (13054)] INFO : Dispatcher: webrick
+[04/13/12 15:18:03 +0530 seeker-kuliza (13054)] INFO : Application: Graylog2
+[04/13/12 15:18:03 +0530 seeker-kuliza (13054)] ERROR : Invalid license key: here
+[04/13/12 15:18:03 +0530 seeker-kuliza (13054)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 13054
+[04/13/12 15:18:03 +0530 seeker-kuliza (13054)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graylog2-web-interface-0.9.6p1-RC1/log/newrelic_agent.log
+[04/14/12 03:19:51 +0530 seeker-kuliza (28308)] INFO : Dispatcher: webrick
+[04/14/12 03:19:51 +0530 seeker-kuliza (28308)] INFO : Application: Graylog2
+[04/14/12 03:19:51 +0530 seeker-kuliza (28308)] ERROR : Invalid license key: here
+[04/14/12 03:19:51 +0530 seeker-kuliza (28308)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 28308
+[04/14/12 03:19:51 +0530 seeker-kuliza (28308)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log

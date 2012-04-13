@@ -1,0 +1,17 @@
+req:
+	1:	superadmin creates anything
+	2:	admin restricted within its hostgroup
+	3:	Default host_groups[local, nonlocal]
+
+
+fixes:
+	1:	setting of host_group by super admin using dropbox
+
+
+<==UPDATES==>
+
+view:
+	first, messages_controller
+
+modal:
+	streamcategory, user

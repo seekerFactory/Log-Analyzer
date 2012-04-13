@@ -1,0 +1,82 @@
+<%= form_for @user do |f| -%>
+
+<dl id="users-form">
+  <dt><%= label_tag 'login', "Username" %></dt>
+  <dd>
+    <%= f.text_field :login %>
+    <span class="highlighted"><%= @user.errors[:login].join(" and ")%></span>
+  </dd>
+
+  <dt><%= label_tag 'email' %></dt>
+  <dd>
+    <%= f.text_field :email %>
+    <span class="highlighted"><%= @user.errors[:email].join(" and ")%></span>
+  </dd>
+
+  <dt><%= label_tag 'name' %></dt>
+  <dd>
+    <%= f.text_field :name %>
+    <span class="highlighted"><%= @user.errors[:name].join(" and ")%></span>
+  </dd>
+
+  <dt><%= label_tag 'password' %></dt>
+  <dd>
+    <%= f.password_field :password %>
+    <span class="highlighted"><%= @user.errors[:password].join(" and ")%></span>
+  </dd>
+
+  <dt><%= label_tag 'password_confirmation', 'Confirm Password' %></dt>
+  <dd>
+    <%= f.password_field :password_confirmation %>
+    <span class="highlighted"><%= @user.errors[:password_confirmation].join(" and ")%></span>
+  </dd>
+
+  <dt><%= label_tag 'role', 'Role'%></dt>
+  <dd>
+    <%= f.select(:role, user.valid_roles.collect {|r| [r.to_s.capitalize, r.to_s]}, :selected => (@user.role.blank? ? "admin" : @user.role)) %>
+    <span class="highlighted"><%= @user.errors[:role].join(" and ")%></span>
+  </dd>
+
+  <!-- modified here --> 
+  <dt><%= label_tag 'super' %></dt>
+  <dd>
+    <%= f.text_field :super %>
+    <span class="highlighted"><%= @user.errors[:super].join(" and ")%></span>
+  </dd>
+
+  <dt><%= label_tag 'just for test :) delete later'%></dt>
+	<li><%= user.valid_host_group.collect {|r| [r.to_s.capitalize, r.to_s]}  -%></li>
+
+
+  <dt><%= label_tag 'host_group' %></dt>
+  <dd>
+    <% if current_user.role == 'admin' %>
+      <% if current_user.super == 1 %>
+        <% f.select(:host_group, user.valid_host_group.collect {|r| [r.to_s.capitalize, r.to_s]}, :selected => (@user.host_group.blank? ? "local" : @user.host_group)) %>
+      <% else %>
+        <% @user.errors[:host_group] = current_user.host_group  %><li><% current_user.host_group %></li>
+      <% end %>
+    <% end %>
+
+    <span class="highlighted"><%= @user.errors[:host_group].join(" and ")%></span>
+  </dd>
+  <!-- fin --> 
+
+  <dt class="users-streams" style="display: <%= show_streams?(@user) %>;"><%= label_tag 'streams', 'Grant access to following streams' %></dt>
+  <dd class="users-streams" style="display: <%= show_streams?(@user) %>">
+    <ul id="users-streams-selector">
+    <% Streamcategory.all.each do |category| %>
+      <% next if !category.has_accessable_streams_for_user?(current_user) %>
+        <% category.streams.sort{ |a,b| a.title <=> b.title }.each do |stream| %>
+    <!--% Stream.all.each do |stream| %-->
+      <!--% if user.host_group == stream.categories %-->
+        <li><%= check_box_tag "user[stream_ids][]", stream.id, user.streams.include?(stream) -%><%= stream.title -%></li>
+      <% end %>
+    <% end %>
+    </ul>
+  </dd>
+
+  <dt>&nbsp;</dt>
+  <dd><%= submit_tag "#{form_action.capitalize} user" %></dd>
+</dl>
+<% end -%>
