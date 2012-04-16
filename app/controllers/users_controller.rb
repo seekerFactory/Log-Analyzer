@@ -12,7 +12,8 @@ class UsersController < ApplicationController
   layout :choose_layout
 
   def index
-    @users = User.find :all
+    # still super admin visible from same group for nonsuperadmin
+    @users = current_user.super == 1 ? User.find( :all) : User.find(:all, :conditions => { :host_group => current_user.host_group })
   end
 
   def show

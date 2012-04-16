@@ -9,4 +9,13 @@ class Host
 
   validates_presence_of :host
 
+##	-- modiefied here
+  STANDARD_HOST_GROUP = :local
+  
+  field :host_group, :type => String
+  
+  def valid_host_group
+    [:local, :nonlocal]
+  end
+##	-- fin
 end

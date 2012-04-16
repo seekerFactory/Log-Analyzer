@@ -8,7 +8,7 @@ fixes:
 	1:	setting of host_group by super admin using dropbox
 
 
-<==UPDATES==>
+<==UPDATED==>
 
 view:
 	first, messages_controller
