@@ -12,8 +12,13 @@ class UsersController < ApplicationController
   layout :choose_layout
 
   def index
-    # still super admin visible from same group for nonsuperadmin
+#    still super admin visible from same group for nonsuperadmin
     @users = current_user.super == 1 ? User.find( :all) : User.find(:all, :conditions => { :host_group => current_user.host_group })
+#    @users = current_user.super == 1 ? User.find( :all) : User.where( :host_group => current_user.host_group, :super != 1)
+#    @users = current_user.super == 1 ? @Allusers : @Allusers.where("super != ?", 1 )
+
+
+
   end
 
   def show

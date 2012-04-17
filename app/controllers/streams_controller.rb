@@ -314,9 +314,22 @@ class StreamsController < ApplicationController
     redirect_to settings_stream_path(@stream)
   end
 
+  def downlaod_pdf
+    @stream = Stream.find(:all)
+    send_data(generate_pdf, :filename => "#{client.name}".pdf, :type => "application/pdf")	
+  end
+
   protected
   def load_stream
     @stream = Stream.find_by_id params["id"]
     render :text => "Not accessible for your user.", :status => :forbidden and return if !@stream.accessable_for_user?(current_user)
+  end
+  
+  def generate_pdf
+    Prawn::Document.new do
+      text client.name, :align => :center
+#      text "Address: #{client.address}"
+#      text "Email: #{client.email}"
+    end.render
   end
 end

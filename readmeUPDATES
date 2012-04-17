@@ -6,6 +6,7 @@ req:
 
 fixes:
 	1:	setting of host_group by super admin using dropbox
+	2:	In users_controller need to restrict admin access from seeing superadmin in index
 
 
 <==UPDATED==>

@@ -364,3 +364,5 @@ MONGODB graylog2_development['$cmd'].count({"count"=>"users", "query"=>{}, "fiel
 Rendered sessions/new.html.erb within layouts/login (149.6ms)
 MONGODB graylog2_development['$cmd'].count({"count"=>"users", "query"=>{}, "fields"=>nil})
 Completed 200 OK in 180ms (Views: 163.6ms)
+New Relic Agent not running.
+New Relic Agent not running.
