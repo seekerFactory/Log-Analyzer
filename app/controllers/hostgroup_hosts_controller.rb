@@ -1,5 +1,19 @@
 class HostgroupHostsController < ApplicationController
   filter_resource_access
+  filter_access_to :index
+  filter_access_to :show
+  filter_access_to :create
+
+#  def index
+#    # fix list for only superadmin
+#    @all_hostgroup = Hostgroup.all
+#    @hostgroups = Hostgroup.asc(:host_group).page(params[:page]) # all hostgroups, sorted alphabetically by hostgroup name, paginated
+#    @hostgroup_count = Hostgroup.count
+#  end
+#
+  def new
+    @host_group = Hostgroup.new
+  end
 
   def create
     # Check if hostgroup exists.

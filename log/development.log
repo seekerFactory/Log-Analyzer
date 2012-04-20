@@ -366,3 +366,16 @@ MONGODB graylog2_development['$cmd'].count({"count"=>"users", "query"=>{}, "fiel
 Completed 200 OK in 180ms (Views: 163.6ms)
 New Relic Agent not running.
 New Relic Agent not running.
+New Relic Agent not running.
+New Relic Agent not running.
+New Relic Agent not running.
+New Relic Agent not running.
+New Relic Agent not running.
+New Relic Agent not running.
+Starting the New Relic Agent.
+NewRelic Agent Developer Mode enabled.
+To view performance information, go to http://localhost:3000/newrelic
+Installed New Relic Browser Monitoring middleware
+Starting the New Relic Agent.
+New Relic Agent not running.
+New Relic Agent not running.

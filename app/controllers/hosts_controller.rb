@@ -6,8 +6,10 @@ class HostsController < ApplicationController
   filter_access_to :showrange
 
   def index
-    @all_hosts = Host.all
-    @hosts = Host.asc(:host).page(params[:page]) # all hosts, sorted alphabetically by hostname, paginated
+    @hosts = Host.all
+    @hostgroups = Hostgroup.all
+    @hosts_and_groups = @hosts | @hostgroups
+#    @hosts = Host.asc(:host).page(params[:page]) # all hosts, sorted alphabetically by hostname, paginated
     @host_count = Host.count
   end
 

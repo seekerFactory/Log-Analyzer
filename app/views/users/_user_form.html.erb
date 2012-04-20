@@ -67,6 +67,7 @@
     <ul id="users-streams-selector">
     <% Streamcategory.all.each do |category| %>
       <% next if !category.has_accessable_streams_for_user?(current_user) %>
+        <li><%= category.title %></li>
         <% category.streams.sort{ |a,b| a.title <=> b.title }.each do |stream| %>
     <!--% Stream.all.each do |stream| %-->
       <!--% if user.host_group == stream.categories %-->

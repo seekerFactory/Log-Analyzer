@@ -1,0 +1,13 @@
+<% content_for :sidebar do %>
+  <%= render :partial => "messages/sidebar_index", :locals => { :headline => "Hello, <span class=\"highlighted\">#{current_user.login}</span>!" } %>
+<% end %>
+
+<h1>Hostgroup <span class="highlighted"><%=h @hostgroup.name %></span></h1>
+
+<% if @messages.blank? %>
+  No messages found.
+<% else %>
+  Messages from <span class="highlighted"><%= gl_date(Time.at(@last_message.created_at).to_s) %></span> available for this hostgroup.
+
+  <%= render :partial => "messages/table", :locals => { :messages => @messages, :total_messages => @total_count } %>
+<% end %>

@@ -27,7 +27,10 @@ Graylog2WebInterface::Application.routes.draw do
   resources :blacklists do
     resources :blacklistedterms, :as => "terms"
   end
+  resources :hostgroups, :except => :show
+  match 'hostgroups/:id' => "hostgroups#hosts"
 
+  resources :hostgroup_hosts
   resources :hosts, :constraints => { :id => /.*/ } do
     resources :messages
 

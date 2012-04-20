@@ -1,1 +1,12 @@
-This is Graylog2 - Please see http://www.graylog2.org/ for more information and documentation. Thank you.
+req:
+	1:	superadmin creates anything
+	2:	admin restricted within its hostgroup, (identify if admin can be associated with multiple hostgroup)
+	3:	Default host_groups[local, nonlocal]
+
+
+fixes:
+	1:	setting of host_group by super admin using dropbox
+	2:	In users_controller need to restrict admin access from seeing superadmin in index
+	3:	Dashboard Message tab hidden for Admin
+
+

@@ -2,7 +2,7 @@
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-  <title>Graylog2</title>
+  <title>Kuliza Log Analyzer</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <%= favicon_link_tag "/favicon.ico" %>
   <%= csrf_meta_tag %>
@@ -126,7 +126,7 @@
   
   <% if ServerValue.ping < 65.seconds.ago %>
     <div id="server-not-running" class="notification">
-      <span class="notification-title">Warning!</span> It seems like your Graylog2 server is not running.
+      <span class="notification-title">Warning!</span> It seems like your Kuliza Log Analyzer server is not running.
     </div>
   <% end %>
   
