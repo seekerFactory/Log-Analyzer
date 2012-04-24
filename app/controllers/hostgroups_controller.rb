@@ -26,6 +26,21 @@ class HostgroupsController < ApplicationController
     @new_host = HostgroupHost.new
 
     @collected_hosts = Host.all_of_group(@hostgroup).sort_by { |h| h.host }
+
+#
+    @hostall = Host.all :conditions => { :host.in => @hostgroup.all_conditions }
+
+#    names = []
+#    @hostgroup.each{ |grp| names.push(grp.name)}
+#    flash[:error] = names
+#    flash[:error] = @hostgroup.name
+#    flash[:error] = ["trouble with hg ", @hostgroup]
+
+#    flash[:error] = ["trouble: ", @collected_hosts]
+#    @hostall.each { |key| flash[:error] = ["hostall ", key, " => " ] }
+
+#    flash[:error] = ["trouble: ", @collected_hosts]
+
   end
 
   def settings

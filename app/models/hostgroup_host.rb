@@ -1,7 +1,7 @@
 class HostgroupHost
   include Mongoid::Document
 
-  belongs_to :hostgroups
+  belongs_to :hostgroup
   validates_presence_of :hostgroup_id, :ruletype, :hostname
 
   field :hostname, :type => String

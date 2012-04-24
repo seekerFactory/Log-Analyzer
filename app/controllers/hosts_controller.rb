@@ -11,6 +11,18 @@ class HostsController < ApplicationController
     @hosts_and_groups = @hosts | @hostgroups
 #    @hosts = Host.asc(:host).page(params[:page]) # all hosts, sorted alphabetically by hostname, paginated
     @host_count = Host.count
+
+##
+#    flash[:error] = ["trouble: ", @hosts_and_groups]
+#    flash[:error] = ["trouble: ", @hostgroups]
+
+
+    
+#    dummy = Hostgroup.all
+#    flash[:error] = dummy.message_count
+#    names = []
+#    dummy.each { |host| names.push( host.name) }
+#    flash[:error] = names
   end
 
   def showrange
