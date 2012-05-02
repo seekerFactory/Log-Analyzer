@@ -1801,3 +1801,1211 @@
 [04/24/12 15:25:29 +0530 seeker-kuliza (9634)] ERROR : Invalid license key: here
 [04/24/12 15:25:29 +0530 seeker-kuliza (9634)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9634
 [04/24/12 15:25:29 +0530 seeker-kuliza (9634)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:45:13 +0530 seeker-kuliza (17859)] INFO : Dispatcher: webrick
+[04/24/12 17:45:13 +0530 seeker-kuliza (17859)] INFO : Application: Graylog2
+[04/24/12 17:45:13 +0530 seeker-kuliza (17859)] ERROR : Invalid license key: here
+[04/24/12 17:45:13 +0530 seeker-kuliza (17859)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 17859
+[04/24/12 17:45:13 +0530 seeker-kuliza (17859)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:46:08 +0530 seeker-kuliza (17889)] INFO : Dispatcher: webrick
+[04/24/12 17:46:08 +0530 seeker-kuliza (17889)] INFO : Application: Graylog2
+[04/24/12 17:46:08 +0530 seeker-kuliza (17889)] ERROR : Invalid license key: here
+[04/24/12 17:46:08 +0530 seeker-kuliza (17889)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 17889
+[04/24/12 17:46:08 +0530 seeker-kuliza (17889)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:46:37 +0530 seeker-kuliza (17909)] INFO : Dispatcher: webrick
+[04/24/12 17:46:37 +0530 seeker-kuliza (17909)] INFO : Application: Graylog2
+[04/24/12 17:46:37 +0530 seeker-kuliza (17909)] ERROR : Invalid license key: here
+[04/24/12 17:46:37 +0530 seeker-kuliza (17909)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 17909
+[04/24/12 17:46:37 +0530 seeker-kuliza (17909)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:47:49 +0530 seeker-kuliza (17942)] INFO : Dispatcher: webrick
+[04/24/12 17:47:49 +0530 seeker-kuliza (17942)] INFO : Application: Graylog2
+[04/24/12 17:47:49 +0530 seeker-kuliza (17942)] ERROR : Invalid license key: here
+[04/24/12 17:47:49 +0530 seeker-kuliza (17942)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 17942
+[04/24/12 17:47:49 +0530 seeker-kuliza (17942)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:51:16 +0530 seeker-kuliza (18034)] INFO : Dispatcher: webrick
+[04/24/12 17:51:16 +0530 seeker-kuliza (18034)] INFO : Application: Graylog2
+[04/24/12 17:51:16 +0530 seeker-kuliza (18034)] ERROR : Invalid license key: here
+[04/24/12 17:51:16 +0530 seeker-kuliza (18034)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18034
+[04/24/12 17:51:16 +0530 seeker-kuliza (18034)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:52:30 +0530 seeker-kuliza (18074)] INFO : Dispatcher: webrick
+[04/24/12 17:52:30 +0530 seeker-kuliza (18074)] INFO : Application: Graylog2
+[04/24/12 17:52:30 +0530 seeker-kuliza (18074)] ERROR : Invalid license key: here
+[04/24/12 17:52:30 +0530 seeker-kuliza (18074)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18074
+[04/24/12 17:52:30 +0530 seeker-kuliza (18074)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:53:08 +0530 seeker-kuliza (18095)] INFO : Dispatcher: webrick
+[04/24/12 17:53:08 +0530 seeker-kuliza (18095)] INFO : Application: Graylog2
+[04/24/12 17:53:08 +0530 seeker-kuliza (18095)] ERROR : Invalid license key: here
+[04/24/12 17:53:08 +0530 seeker-kuliza (18095)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18095
+[04/24/12 17:53:08 +0530 seeker-kuliza (18095)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:53:51 +0530 seeker-kuliza (18118)] INFO : Dispatcher: webrick
+[04/24/12 17:53:51 +0530 seeker-kuliza (18118)] INFO : Application: Graylog2
+[04/24/12 17:53:51 +0530 seeker-kuliza (18118)] ERROR : Invalid license key: here
+[04/24/12 17:53:51 +0530 seeker-kuliza (18118)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18118
+[04/24/12 17:53:51 +0530 seeker-kuliza (18118)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:55:04 +0530 seeker-kuliza (18152)] INFO : Dispatcher: webrick
+[04/24/12 17:55:04 +0530 seeker-kuliza (18152)] INFO : Application: Graylog2
+[04/24/12 17:55:04 +0530 seeker-kuliza (18152)] ERROR : Invalid license key: here
+[04/24/12 17:55:04 +0530 seeker-kuliza (18152)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18152
+[04/24/12 17:55:04 +0530 seeker-kuliza (18152)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:55:36 +0530 seeker-kuliza (18168)] INFO : Dispatcher: webrick
+[04/24/12 17:55:36 +0530 seeker-kuliza (18168)] INFO : Application: Graylog2
+[04/24/12 17:55:36 +0530 seeker-kuliza (18168)] ERROR : Invalid license key: here
+[04/24/12 17:55:36 +0530 seeker-kuliza (18168)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18168
+[04/24/12 17:55:36 +0530 seeker-kuliza (18168)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:57:12 +0530 seeker-kuliza (18215)] INFO : Dispatcher: webrick
+[04/24/12 17:57:12 +0530 seeker-kuliza (18215)] INFO : Application: Graylog2
+[04/24/12 17:57:12 +0530 seeker-kuliza (18215)] ERROR : Invalid license key: here
+[04/24/12 17:57:12 +0530 seeker-kuliza (18215)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18215
+[04/24/12 17:57:12 +0530 seeker-kuliza (18215)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/24/12 17:57:44 +0530 seeker-kuliza (18231)] INFO : Dispatcher: webrick
+[04/24/12 17:57:44 +0530 seeker-kuliza (18231)] INFO : Application: Graylog2
+[04/24/12 17:57:44 +0530 seeker-kuliza (18231)] ERROR : Invalid license key: here
+[04/24/12 17:57:44 +0530 seeker-kuliza (18231)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18231
+[04/24/12 17:57:44 +0530 seeker-kuliza (18231)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 09:35:39 +0530 seeker-kuliza (20281)] INFO : Dispatcher: webrick
+[04/25/12 09:35:39 +0530 seeker-kuliza (20281)] INFO : Application: Graylog2
+[04/25/12 09:35:39 +0530 seeker-kuliza (20281)] ERROR : Invalid license key: here
+[04/25/12 09:35:39 +0530 seeker-kuliza (20281)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 20281
+[04/25/12 09:35:39 +0530 seeker-kuliza (20281)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 10:35:50 +0530 seeker-kuliza (23561)] INFO : Dispatcher: passenger
+[04/25/12 10:35:50 +0530 seeker-kuliza (23561)] INFO : Application: Graylog2
+[04/25/12 10:35:50 +0530 seeker-kuliza (23561)] ERROR : Invalid license key: here
+[04/25/12 10:35:50 +0530 seeker-kuliza (23561)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 23561
+[04/25/12 10:35:50 +0530 seeker-kuliza (23561)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 10:35:50 +0530 seeker-kuliza (23561)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 10:35:53 +0530 seeker-kuliza (23561)] INFO : Starting the worker thread in 23561 after forking.
+[04/25/12 10:35:57 +0530 seeker-kuliza (23597)] INFO : Dispatcher: passenger
+[04/25/12 10:35:57 +0530 seeker-kuliza (23597)] INFO : Application: Graylog2
+[04/25/12 10:35:57 +0530 seeker-kuliza (23597)] ERROR : Invalid license key: here
+[04/25/12 10:35:57 +0530 seeker-kuliza (23597)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 23597
+[04/25/12 10:35:57 +0530 seeker-kuliza (23597)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 10:35:57 +0530 seeker-kuliza (23597)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 10:35:58 +0530 seeker-kuliza (23597)] INFO : Starting the worker thread in 23597 after forking.
+[04/25/12 10:36:02 +0530 seeker-kuliza (23609)] INFO : Dispatcher: passenger
+[04/25/12 10:36:02 +0530 seeker-kuliza (23609)] INFO : Application: Graylog2
+[04/25/12 10:36:02 +0530 seeker-kuliza (23609)] ERROR : Invalid license key: here
+[04/25/12 10:36:02 +0530 seeker-kuliza (23609)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 23609
+[04/25/12 10:36:02 +0530 seeker-kuliza (23609)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 10:36:02 +0530 seeker-kuliza (23609)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 10:36:03 +0530 seeker-kuliza (23561)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 10:36:04 +0530 seeker-kuliza (23609)] INFO : Starting the worker thread in 23609 after forking.
+[04/25/12 10:36:04 +0530 seeker-kuliza (23561)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 10:36:04 +0530 seeker-kuliza (23561)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 10:36:08 +0530 seeker-kuliza (23619)] INFO : Dispatcher: passenger
+[04/25/12 10:36:08 +0530 seeker-kuliza (23619)] INFO : Application: Graylog2
+[04/25/12 10:36:08 +0530 seeker-kuliza (23619)] ERROR : Invalid license key: here
+[04/25/12 10:36:08 +0530 seeker-kuliza (23619)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 23619
+[04/25/12 10:36:08 +0530 seeker-kuliza (23619)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 10:36:08 +0530 seeker-kuliza (23619)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 10:36:09 +0530 seeker-kuliza (23597)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 10:36:09 +0530 seeker-kuliza (23597)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 10:36:09 +0530 seeker-kuliza (23597)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 10:36:09 +0530 seeker-kuliza (23619)] INFO : Starting the worker thread in 23619 after forking.
+[04/25/12 10:36:13 +0530 seeker-kuliza (23631)] INFO : Dispatcher: passenger
+[04/25/12 10:36:13 +0530 seeker-kuliza (23631)] INFO : Application: Graylog2
+[04/25/12 10:36:13 +0530 seeker-kuliza (23631)] ERROR : Invalid license key: here
+[04/25/12 10:36:13 +0530 seeker-kuliza (23631)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 23631
+[04/25/12 10:36:13 +0530 seeker-kuliza (23631)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 10:36:13 +0530 seeker-kuliza (23631)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 10:36:14 +0530 seeker-kuliza (23609)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 10:36:15 +0530 seeker-kuliza (23609)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 10:36:15 +0530 seeker-kuliza (23609)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 10:36:15 +0530 seeker-kuliza (23631)] INFO : Starting the worker thread in 23631 after forking.
+[04/25/12 10:36:20 +0530 seeker-kuliza (23619)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 10:36:21 +0530 seeker-kuliza (23619)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 10:36:21 +0530 seeker-kuliza (23619)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 10:36:25 +0530 seeker-kuliza (23631)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 10:36:27 +0530 seeker-kuliza (23631)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 10:36:27 +0530 seeker-kuliza (23631)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 10:36:47 +0530 seeker-kuliza (23641)] INFO : Dispatcher: passenger
+[04/25/12 10:36:47 +0530 seeker-kuliza (23641)] INFO : Application: Graylog2
+[04/25/12 10:36:47 +0530 seeker-kuliza (23641)] ERROR : Invalid license key: here
+[04/25/12 10:36:47 +0530 seeker-kuliza (23641)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 23641
+[04/25/12 10:36:47 +0530 seeker-kuliza (23641)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 10:36:49 +0530 seeker-kuliza (23641)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 10:40:10 +0530 seeker-kuliza (23641)] INFO : Starting the worker thread in 23641 after forking.
+[04/25/12 10:40:22 +0530 seeker-kuliza (23641)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 10:40:24 +0530 seeker-kuliza (23641)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 10:40:24 +0530 seeker-kuliza (23641)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:22:35 +0530 seeker-kuliza (28103)] INFO : Dispatcher: passenger
+[04/25/12 11:22:35 +0530 seeker-kuliza (28103)] INFO : Application: Graylog2
+[04/25/12 11:22:35 +0530 seeker-kuliza (28103)] ERROR : Invalid license key: here
+[04/25/12 11:22:35 +0530 seeker-kuliza (28103)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 28103
+[04/25/12 11:22:35 +0530 seeker-kuliza (28103)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:22:35 +0530 seeker-kuliza (28103)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:22:38 +0530 seeker-kuliza (28103)] INFO : Starting the worker thread in 28103 after forking.
+[04/25/12 11:22:41 +0530 seeker-kuliza (28132)] INFO : Dispatcher: passenger
+[04/25/12 11:22:41 +0530 seeker-kuliza (28132)] INFO : Application: Graylog2
+[04/25/12 11:22:41 +0530 seeker-kuliza (28132)] ERROR : Invalid license key: here
+[04/25/12 11:22:41 +0530 seeker-kuliza (28132)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 28132
+[04/25/12 11:22:41 +0530 seeker-kuliza (28132)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:22:41 +0530 seeker-kuliza (28132)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:22:43 +0530 seeker-kuliza (28132)] INFO : Starting the worker thread in 28132 after forking.
+[04/25/12 11:22:48 +0530 seeker-kuliza (28103)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:22:49 +0530 seeker-kuliza (28103)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:22:49 +0530 seeker-kuliza (28103)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:22:53 +0530 seeker-kuliza (28132)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:22:54 +0530 seeker-kuliza (28132)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:22:54 +0530 seeker-kuliza (28132)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:28:51 +0530 seeker-kuliza (29839)] INFO : Dispatcher: passenger
+[04/25/12 11:28:51 +0530 seeker-kuliza (29839)] INFO : Application: Graylog2
+[04/25/12 11:28:51 +0530 seeker-kuliza (29839)] ERROR : Invalid license key: here
+[04/25/12 11:28:51 +0530 seeker-kuliza (29839)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 29839
+[04/25/12 11:28:51 +0530 seeker-kuliza (29839)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:28:51 +0530 seeker-kuliza (29839)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:28:53 +0530 seeker-kuliza (29839)] INFO : Starting the worker thread in 29839 after forking.
+[04/25/12 11:29:02 +0530 seeker-kuliza (29869)] INFO : Dispatcher: passenger
+[04/25/12 11:29:02 +0530 seeker-kuliza (29869)] INFO : Application: Graylog2
+[04/25/12 11:29:02 +0530 seeker-kuliza (29869)] ERROR : Invalid license key: here
+[04/25/12 11:29:02 +0530 seeker-kuliza (29869)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 29869
+[04/25/12 11:29:02 +0530 seeker-kuliza (29869)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:29:02 +0530 seeker-kuliza (29869)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:29:03 +0530 seeker-kuliza (29839)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:29:04 +0530 seeker-kuliza (29869)] INFO : Starting the worker thread in 29869 after forking.
+[04/25/12 11:29:04 +0530 seeker-kuliza (29839)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:29:04 +0530 seeker-kuliza (29839)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:29:07 +0530 seeker-kuliza (29881)] INFO : Dispatcher: passenger
+[04/25/12 11:29:07 +0530 seeker-kuliza (29881)] INFO : Application: Graylog2
+[04/25/12 11:29:07 +0530 seeker-kuliza (29881)] ERROR : Invalid license key: here
+[04/25/12 11:29:07 +0530 seeker-kuliza (29881)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 29881
+[04/25/12 11:29:07 +0530 seeker-kuliza (29881)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:29:07 +0530 seeker-kuliza (29881)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:29:09 +0530 seeker-kuliza (29881)] INFO : Starting the worker thread in 29881 after forking.
+[04/25/12 11:29:14 +0530 seeker-kuliza (29869)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:29:15 +0530 seeker-kuliza (29869)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:29:15 +0530 seeker-kuliza (29869)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:29:24 +0530 seeker-kuliza (29881)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:29:25 +0530 seeker-kuliza (29881)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:29:25 +0530 seeker-kuliza (29881)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:31:07 +0530 seeker-kuliza (30044)] INFO : Dispatcher: passenger
+[04/25/12 11:31:07 +0530 seeker-kuliza (30044)] INFO : Application: Graylog2
+[04/25/12 11:31:07 +0530 seeker-kuliza (30044)] ERROR : Invalid license key: here
+[04/25/12 11:31:07 +0530 seeker-kuliza (30044)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30044
+[04/25/12 11:31:07 +0530 seeker-kuliza (30044)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:31:07 +0530 seeker-kuliza (30044)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:31:09 +0530 seeker-kuliza (30044)] INFO : Starting the worker thread in 30044 after forking.
+[04/25/12 11:31:18 +0530 seeker-kuliza (30076)] INFO : Dispatcher: passenger
+[04/25/12 11:31:18 +0530 seeker-kuliza (30076)] INFO : Application: Graylog2
+[04/25/12 11:31:18 +0530 seeker-kuliza (30076)] ERROR : Invalid license key: here
+[04/25/12 11:31:18 +0530 seeker-kuliza (30076)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30076
+[04/25/12 11:31:18 +0530 seeker-kuliza (30076)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:31:18 +0530 seeker-kuliza (30076)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:31:19 +0530 seeker-kuliza (30044)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:31:20 +0530 seeker-kuliza (30076)] INFO : Starting the worker thread in 30076 after forking.
+[04/25/12 11:31:20 +0530 seeker-kuliza (30044)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:31:20 +0530 seeker-kuliza (30044)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:31:30 +0530 seeker-kuliza (30076)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:31:31 +0530 seeker-kuliza (30076)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:31:31 +0530 seeker-kuliza (30076)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:37:29 +0530 seeker-kuliza (30426)] INFO : Dispatcher: passenger
+[04/25/12 11:37:29 +0530 seeker-kuliza (30426)] INFO : Application: Graylog2
+[04/25/12 11:37:29 +0530 seeker-kuliza (30426)] ERROR : Invalid license key: here
+[04/25/12 11:37:29 +0530 seeker-kuliza (30426)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30426
+[04/25/12 11:37:29 +0530 seeker-kuliza (30426)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:37:29 +0530 seeker-kuliza (30426)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:37:31 +0530 seeker-kuliza (30426)] INFO : Starting the worker thread in 30426 after forking.
+[04/25/12 11:37:35 +0530 seeker-kuliza (30446)] INFO : Dispatcher: passenger
+[04/25/12 11:37:35 +0530 seeker-kuliza (30446)] INFO : Application: Graylog2
+[04/25/12 11:37:35 +0530 seeker-kuliza (30446)] ERROR : Invalid license key: here
+[04/25/12 11:37:35 +0530 seeker-kuliza (30446)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30446
+[04/25/12 11:37:35 +0530 seeker-kuliza (30446)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:37:35 +0530 seeker-kuliza (30446)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:37:36 +0530 seeker-kuliza (30446)] INFO : Starting the worker thread in 30446 after forking.
+[04/25/12 11:37:40 +0530 seeker-kuliza (30462)] INFO : Dispatcher: passenger
+[04/25/12 11:37:40 +0530 seeker-kuliza (30462)] INFO : Application: Graylog2
+[04/25/12 11:37:40 +0530 seeker-kuliza (30462)] ERROR : Invalid license key: here
+[04/25/12 11:37:40 +0530 seeker-kuliza (30462)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30462
+[04/25/12 11:37:40 +0530 seeker-kuliza (30462)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:37:40 +0530 seeker-kuliza (30462)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:37:41 +0530 seeker-kuliza (30426)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:37:41 +0530 seeker-kuliza (30462)] INFO : Starting the worker thread in 30462 after forking.
+[04/25/12 11:37:42 +0530 seeker-kuliza (30426)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:37:42 +0530 seeker-kuliza (30426)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:37:45 +0530 seeker-kuliza (30483)] INFO : Dispatcher: passenger
+[04/25/12 11:37:45 +0530 seeker-kuliza (30483)] INFO : Application: Graylog2
+[04/25/12 11:37:45 +0530 seeker-kuliza (30483)] ERROR : Invalid license key: here
+[04/25/12 11:37:45 +0530 seeker-kuliza (30483)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30483
+[04/25/12 11:37:45 +0530 seeker-kuliza (30483)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:37:45 +0530 seeker-kuliza (30483)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:37:47 +0530 seeker-kuliza (30483)] INFO : Starting the worker thread in 30483 after forking.
+[04/25/12 11:37:47 +0530 seeker-kuliza (30446)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:37:48 +0530 seeker-kuliza (30446)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:37:48 +0530 seeker-kuliza (30446)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:37:50 +0530 seeker-kuliza (30493)] INFO : Dispatcher: passenger
+[04/25/12 11:37:50 +0530 seeker-kuliza (30493)] INFO : Application: Graylog2
+[04/25/12 11:37:50 +0530 seeker-kuliza (30493)] ERROR : Invalid license key: here
+[04/25/12 11:37:50 +0530 seeker-kuliza (30493)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30493
+[04/25/12 11:37:50 +0530 seeker-kuliza (30493)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:37:51 +0530 seeker-kuliza (30493)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:37:52 +0530 seeker-kuliza (30462)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:37:52 +0530 seeker-kuliza (30493)] INFO : Starting the worker thread in 30493 after forking.
+[04/25/12 11:37:53 +0530 seeker-kuliza (30462)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:37:53 +0530 seeker-kuliza (30462)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:37:56 +0530 seeker-kuliza (30503)] INFO : Dispatcher: passenger
+[04/25/12 11:37:56 +0530 seeker-kuliza (30503)] INFO : Application: Graylog2
+[04/25/12 11:37:56 +0530 seeker-kuliza (30503)] ERROR : Invalid license key: here
+[04/25/12 11:37:56 +0530 seeker-kuliza (30503)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30503
+[04/25/12 11:37:56 +0530 seeker-kuliza (30503)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:37:56 +0530 seeker-kuliza (30503)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:37:57 +0530 seeker-kuliza (30483)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:37:57 +0530 seeker-kuliza (30503)] INFO : Starting the worker thread in 30503 after forking.
+[04/25/12 11:37:58 +0530 seeker-kuliza (30483)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:37:58 +0530 seeker-kuliza (30483)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:38:11 +0530 seeker-kuliza (30582)] INFO : Dispatcher: passenger
+[04/25/12 11:38:11 +0530 seeker-kuliza (30582)] INFO : Application: Graylog2
+[04/25/12 11:38:11 +0530 seeker-kuliza (30582)] ERROR : Invalid license key: here
+[04/25/12 11:38:11 +0530 seeker-kuliza (30582)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30582
+[04/25/12 11:38:11 +0530 seeker-kuliza (30582)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:38:11 +0530 seeker-kuliza (30582)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:38:12 +0530 seeker-kuliza (30582)] INFO : Starting the worker thread in 30582 after forking.
+[04/25/12 11:38:22 +0530 seeker-kuliza (30582)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:38:23 +0530 seeker-kuliza (30582)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:38:23 +0530 seeker-kuliza (30582)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:38:34 +0530 seeker-kuliza (30625)] INFO : Dispatcher: passenger
+[04/25/12 11:38:34 +0530 seeker-kuliza (30625)] INFO : Application: Graylog2
+[04/25/12 11:38:34 +0530 seeker-kuliza (30625)] ERROR : Invalid license key: here
+[04/25/12 11:38:34 +0530 seeker-kuliza (30625)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30625
+[04/25/12 11:38:34 +0530 seeker-kuliza (30625)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:38:34 +0530 seeker-kuliza (30625)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:38:36 +0530 seeker-kuliza (30625)] INFO : Starting the worker thread in 30625 after forking.
+[04/25/12 11:38:46 +0530 seeker-kuliza (30625)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:38:47 +0530 seeker-kuliza (30625)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:38:47 +0530 seeker-kuliza (30625)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:40:09 +0530 seeker-kuliza (30801)] INFO : Dispatcher: passenger
+[04/25/12 11:40:09 +0530 seeker-kuliza (30801)] INFO : Application: Graylog2
+[04/25/12 11:40:09 +0530 seeker-kuliza (30801)] ERROR : Invalid license key: here
+[04/25/12 11:40:09 +0530 seeker-kuliza (30801)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30801
+[04/25/12 11:40:09 +0530 seeker-kuliza (30801)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:40:09 +0530 seeker-kuliza (30801)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:40:10 +0530 seeker-kuliza (30801)] INFO : Starting the worker thread in 30801 after forking.
+[04/25/12 11:40:14 +0530 seeker-kuliza (30822)] INFO : Dispatcher: passenger
+[04/25/12 11:40:14 +0530 seeker-kuliza (30822)] INFO : Application: Graylog2
+[04/25/12 11:40:14 +0530 seeker-kuliza (30822)] ERROR : Invalid license key: here
+[04/25/12 11:40:14 +0530 seeker-kuliza (30822)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30822
+[04/25/12 11:40:14 +0530 seeker-kuliza (30822)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:40:14 +0530 seeker-kuliza (30822)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:40:16 +0530 seeker-kuliza (30822)] INFO : Starting the worker thread in 30822 after forking.
+[04/25/12 11:40:19 +0530 seeker-kuliza (30839)] INFO : Dispatcher: passenger
+[04/25/12 11:40:19 +0530 seeker-kuliza (30839)] INFO : Application: Graylog2
+[04/25/12 11:40:19 +0530 seeker-kuliza (30839)] ERROR : Invalid license key: here
+[04/25/12 11:40:19 +0530 seeker-kuliza (30839)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30839
+[04/25/12 11:40:19 +0530 seeker-kuliza (30839)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:40:19 +0530 seeker-kuliza (30839)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:40:21 +0530 seeker-kuliza (30839)] INFO : Starting the worker thread in 30839 after forking.
+[04/25/12 11:40:21 +0530 seeker-kuliza (30801)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:40:22 +0530 seeker-kuliza (30801)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:40:22 +0530 seeker-kuliza (30801)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:40:24 +0530 seeker-kuliza (30854)] INFO : Dispatcher: passenger
+[04/25/12 11:40:24 +0530 seeker-kuliza (30854)] INFO : Application: Graylog2
+[04/25/12 11:40:24 +0530 seeker-kuliza (30854)] ERROR : Invalid license key: here
+[04/25/12 11:40:24 +0530 seeker-kuliza (30854)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30854
+[04/25/12 11:40:24 +0530 seeker-kuliza (30854)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:40:24 +0530 seeker-kuliza (30854)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:40:26 +0530 seeker-kuliza (30854)] INFO : Starting the worker thread in 30854 after forking.
+[04/25/12 11:40:26 +0530 seeker-kuliza (30822)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:40:27 +0530 seeker-kuliza (30822)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:40:27 +0530 seeker-kuliza (30822)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:40:30 +0530 seeker-kuliza (30864)] INFO : Dispatcher: passenger
+[04/25/12 11:40:30 +0530 seeker-kuliza (30864)] INFO : Application: Graylog2
+[04/25/12 11:40:30 +0530 seeker-kuliza (30864)] ERROR : Invalid license key: here
+[04/25/12 11:40:30 +0530 seeker-kuliza (30864)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30864
+[04/25/12 11:40:30 +0530 seeker-kuliza (30864)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:40:30 +0530 seeker-kuliza (30864)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:40:31 +0530 seeker-kuliza (30839)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:40:31 +0530 seeker-kuliza (30864)] INFO : Starting the worker thread in 30864 after forking.
+[04/25/12 11:40:32 +0530 seeker-kuliza (30839)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:40:32 +0530 seeker-kuliza (30839)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:40:35 +0530 seeker-kuliza (30874)] INFO : Dispatcher: passenger
+[04/25/12 11:40:35 +0530 seeker-kuliza (30874)] INFO : Application: Graylog2
+[04/25/12 11:40:35 +0530 seeker-kuliza (30874)] ERROR : Invalid license key: here
+[04/25/12 11:40:35 +0530 seeker-kuliza (30874)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30874
+[04/25/12 11:40:35 +0530 seeker-kuliza (30874)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 11:40:35 +0530 seeker-kuliza (30874)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 11:40:36 +0530 seeker-kuliza (30874)] INFO : Starting the worker thread in 30874 after forking.
+[04/25/12 11:40:36 +0530 seeker-kuliza (30854)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:40:38 +0530 seeker-kuliza (30854)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:40:38 +0530 seeker-kuliza (30854)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:40:41 +0530 seeker-kuliza (30864)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:40:42 +0530 seeker-kuliza (30864)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:40:42 +0530 seeker-kuliza (30864)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 11:40:46 +0530 seeker-kuliza (30874)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 11:40:47 +0530 seeker-kuliza (30874)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 11:40:47 +0530 seeker-kuliza (30874)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 12:58:11 +0530 seeker-kuliza (2337)] INFO : Dispatcher: passenger
+[04/25/12 12:58:11 +0530 seeker-kuliza (2337)] INFO : Application: Graylog2
+[04/25/12 12:58:11 +0530 seeker-kuliza (2337)] ERROR : Invalid license key: here
+[04/25/12 12:58:11 +0530 seeker-kuliza (2337)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 2337
+[04/25/12 12:58:11 +0530 seeker-kuliza (2337)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 12:58:11 +0530 seeker-kuliza (2337)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 12:58:13 +0530 seeker-kuliza (2337)] INFO : Starting the worker thread in 2337 after forking.
+[04/25/12 12:58:17 +0530 seeker-kuliza (2368)] INFO : Dispatcher: passenger
+[04/25/12 12:58:17 +0530 seeker-kuliza (2368)] INFO : Application: Graylog2
+[04/25/12 12:58:17 +0530 seeker-kuliza (2368)] ERROR : Invalid license key: here
+[04/25/12 12:58:17 +0530 seeker-kuliza (2368)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 2368
+[04/25/12 12:58:17 +0530 seeker-kuliza (2368)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 12:58:17 +0530 seeker-kuliza (2368)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 12:58:18 +0530 seeker-kuliza (2368)] INFO : Starting the worker thread in 2368 after forking.
+[04/25/12 12:58:22 +0530 seeker-kuliza (2384)] INFO : Dispatcher: passenger
+[04/25/12 12:58:22 +0530 seeker-kuliza (2384)] INFO : Application: Graylog2
+[04/25/12 12:58:22 +0530 seeker-kuliza (2384)] ERROR : Invalid license key: here
+[04/25/12 12:58:22 +0530 seeker-kuliza (2384)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 2384
+[04/25/12 12:58:22 +0530 seeker-kuliza (2384)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 12:58:22 +0530 seeker-kuliza (2384)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 12:58:24 +0530 seeker-kuliza (2384)] INFO : Starting the worker thread in 2384 after forking.
+[04/25/12 12:58:27 +0530 seeker-kuliza (2394)] INFO : Dispatcher: passenger
+[04/25/12 12:58:27 +0530 seeker-kuliza (2394)] INFO : Application: Graylog2
+[04/25/12 12:58:27 +0530 seeker-kuliza (2394)] ERROR : Invalid license key: here
+[04/25/12 12:58:27 +0530 seeker-kuliza (2394)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 2394
+[04/25/12 12:58:27 +0530 seeker-kuliza (2394)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 12:58:27 +0530 seeker-kuliza (2394)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 12:58:28 +0530 seeker-kuliza (2337)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 12:58:29 +0530 seeker-kuliza (2368)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 12:58:29 +0530 seeker-kuliza (2394)] INFO : Starting the worker thread in 2394 after forking.
+[04/25/12 12:58:29 +0530 seeker-kuliza (2337)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 12:58:29 +0530 seeker-kuliza (2337)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 12:58:29 +0530 seeker-kuliza (2368)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 12:58:29 +0530 seeker-kuliza (2368)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 12:58:33 +0530 seeker-kuliza (2406)] INFO : Dispatcher: passenger
+[04/25/12 12:58:33 +0530 seeker-kuliza (2406)] INFO : Application: Graylog2
+[04/25/12 12:58:33 +0530 seeker-kuliza (2406)] ERROR : Invalid license key: here
+[04/25/12 12:58:33 +0530 seeker-kuliza (2406)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 2406
+[04/25/12 12:58:33 +0530 seeker-kuliza (2406)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 12:58:33 +0530 seeker-kuliza (2406)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 12:58:34 +0530 seeker-kuliza (2384)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 12:58:34 +0530 seeker-kuliza (2406)] INFO : Starting the worker thread in 2406 after forking.
+[04/25/12 12:58:35 +0530 seeker-kuliza (2384)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 12:58:35 +0530 seeker-kuliza (2384)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 12:58:39 +0530 seeker-kuliza (2416)] INFO : Dispatcher: passenger
+[04/25/12 12:58:39 +0530 seeker-kuliza (2416)] INFO : Application: Graylog2
+[04/25/12 12:58:39 +0530 seeker-kuliza (2416)] ERROR : Invalid license key: here
+[04/25/12 12:58:39 +0530 seeker-kuliza (2416)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 2416
+[04/25/12 12:58:39 +0530 seeker-kuliza (2416)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 12:58:39 +0530 seeker-kuliza (2416)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 12:58:39 +0530 seeker-kuliza (2394)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 12:58:40 +0530 seeker-kuliza (2416)] INFO : Starting the worker thread in 2416 after forking.
+[04/25/12 12:58:43 +0530 seeker-kuliza (2394)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 12:58:43 +0530 seeker-kuliza (2394)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 12:58:44 +0530 seeker-kuliza (2406)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 12:58:45 +0530 seeker-kuliza (2406)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 12:58:45 +0530 seeker-kuliza (2406)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 12:58:50 +0530 seeker-kuliza (2416)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 12:58:54 +0530 seeker-kuliza (2416)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 12:58:54 +0530 seeker-kuliza (2416)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:36:47 +0530 seeker-kuliza (4270)] INFO : Dispatcher: passenger
+[04/25/12 13:36:47 +0530 seeker-kuliza (4270)] INFO : Application: Graylog2
+[04/25/12 13:36:47 +0530 seeker-kuliza (4270)] ERROR : Invalid license key: here
+[04/25/12 13:36:47 +0530 seeker-kuliza (4270)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4270
+[04/25/12 13:36:47 +0530 seeker-kuliza (4270)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:36:47 +0530 seeker-kuliza (4270)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:36:50 +0530 seeker-kuliza (4270)] INFO : Starting the worker thread in 4270 after forking.
+[04/25/12 13:36:54 +0530 seeker-kuliza (4299)] INFO : Dispatcher: passenger
+[04/25/12 13:36:54 +0530 seeker-kuliza (4299)] INFO : Application: Graylog2
+[04/25/12 13:36:54 +0530 seeker-kuliza (4299)] ERROR : Invalid license key: here
+[04/25/12 13:36:54 +0530 seeker-kuliza (4299)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4299
+[04/25/12 13:36:54 +0530 seeker-kuliza (4299)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:36:54 +0530 seeker-kuliza (4299)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:36:55 +0530 seeker-kuliza (4299)] INFO : Starting the worker thread in 4299 after forking.
+[04/25/12 13:36:59 +0530 seeker-kuliza (4309)] INFO : Dispatcher: passenger
+[04/25/12 13:36:59 +0530 seeker-kuliza (4309)] INFO : Application: Graylog2
+[04/25/12 13:36:59 +0530 seeker-kuliza (4309)] ERROR : Invalid license key: here
+[04/25/12 13:36:59 +0530 seeker-kuliza (4309)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4309
+[04/25/12 13:36:59 +0530 seeker-kuliza (4309)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:36:59 +0530 seeker-kuliza (4309)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:37:00 +0530 seeker-kuliza (4270)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:37:00 +0530 seeker-kuliza (4309)] INFO : Starting the worker thread in 4309 after forking.
+[04/25/12 13:37:01 +0530 seeker-kuliza (4270)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:37:01 +0530 seeker-kuliza (4270)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:37:04 +0530 seeker-kuliza (4319)] INFO : Dispatcher: passenger
+[04/25/12 13:37:04 +0530 seeker-kuliza (4319)] INFO : Application: Graylog2
+[04/25/12 13:37:04 +0530 seeker-kuliza (4319)] ERROR : Invalid license key: here
+[04/25/12 13:37:04 +0530 seeker-kuliza (4319)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4319
+[04/25/12 13:37:04 +0530 seeker-kuliza (4319)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:37:04 +0530 seeker-kuliza (4319)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:37:05 +0530 seeker-kuliza (4299)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:37:06 +0530 seeker-kuliza (4319)] INFO : Starting the worker thread in 4319 after forking.
+[04/25/12 13:37:07 +0530 seeker-kuliza (4299)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:37:07 +0530 seeker-kuliza (4299)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:37:09 +0530 seeker-kuliza (4338)] INFO : Dispatcher: passenger
+[04/25/12 13:37:09 +0530 seeker-kuliza (4338)] INFO : Application: Graylog2
+[04/25/12 13:37:09 +0530 seeker-kuliza (4338)] ERROR : Invalid license key: here
+[04/25/12 13:37:09 +0530 seeker-kuliza (4338)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4338
+[04/25/12 13:37:09 +0530 seeker-kuliza (4338)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:37:09 +0530 seeker-kuliza (4338)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:37:11 +0530 seeker-kuliza (4309)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:37:11 +0530 seeker-kuliza (4338)] INFO : Starting the worker thread in 4338 after forking.
+[04/25/12 13:37:12 +0530 seeker-kuliza (4309)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:37:12 +0530 seeker-kuliza (4309)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:37:15 +0530 seeker-kuliza (4357)] INFO : Dispatcher: passenger
+[04/25/12 13:37:15 +0530 seeker-kuliza (4357)] INFO : Application: Graylog2
+[04/25/12 13:37:15 +0530 seeker-kuliza (4357)] ERROR : Invalid license key: here
+[04/25/12 13:37:15 +0530 seeker-kuliza (4357)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4357
+[04/25/12 13:37:15 +0530 seeker-kuliza (4357)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:37:15 +0530 seeker-kuliza (4357)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:37:16 +0530 seeker-kuliza (4319)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:37:16 +0530 seeker-kuliza (4357)] INFO : Starting the worker thread in 4357 after forking.
+[04/25/12 13:37:17 +0530 seeker-kuliza (4319)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:37:17 +0530 seeker-kuliza (4319)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:37:21 +0530 seeker-kuliza (4338)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:37:23 +0530 seeker-kuliza (4338)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:37:23 +0530 seeker-kuliza (4338)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:37:27 +0530 seeker-kuliza (4357)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:37:28 +0530 seeker-kuliza (4357)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:37:28 +0530 seeker-kuliza (4357)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:41:52 +0530 seeker-kuliza (4582)] INFO : Dispatcher: passenger
+[04/25/12 13:41:52 +0530 seeker-kuliza (4648)] INFO : Dispatcher: passenger
+[04/25/12 13:41:52 +0530 seeker-kuliza (4582)] INFO : Application: Graylog2
+[04/25/12 13:41:52 +0530 seeker-kuliza (4648)] INFO : Application: Graylog2
+[04/25/12 13:41:52 +0530 seeker-kuliza (4648)] ERROR : Invalid license key: here
+[04/25/12 13:41:52 +0530 seeker-kuliza (4648)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4648
+[04/25/12 13:41:52 +0530 seeker-kuliza (4648)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:41:52 +0530 seeker-kuliza (4582)] ERROR : Invalid license key: here
+[04/25/12 13:41:52 +0530 seeker-kuliza (4582)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4582
+[04/25/12 13:41:52 +0530 seeker-kuliza (4582)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:41:52 +0530 seeker-kuliza (4648)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:41:52 +0530 seeker-kuliza (4582)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:41:55 +0530 seeker-kuliza (4582)] INFO : Starting the worker thread in 4582 after forking.
+[04/25/12 13:41:55 +0530 seeker-kuliza (4648)] INFO : Starting the worker thread in 4648 after forking.
+[04/25/12 13:41:59 +0530 seeker-kuliza (4692)] INFO : Dispatcher: passenger
+[04/25/12 13:41:59 +0530 seeker-kuliza (4692)] INFO : Application: Graylog2
+[04/25/12 13:41:59 +0530 seeker-kuliza (4692)] ERROR : Invalid license key: here
+[04/25/12 13:41:59 +0530 seeker-kuliza (4692)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4692
+[04/25/12 13:41:59 +0530 seeker-kuliza (4692)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:41:59 +0530 seeker-kuliza (4692)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:42:00 +0530 seeker-kuliza (4692)] INFO : Starting the worker thread in 4692 after forking.
+[04/25/12 13:42:05 +0530 seeker-kuliza (4739)] INFO : Dispatcher: passenger
+[04/25/12 13:42:05 +0530 seeker-kuliza (4739)] INFO : Application: Graylog2
+[04/25/12 13:42:05 +0530 seeker-kuliza (4739)] ERROR : Invalid license key: here
+[04/25/12 13:42:05 +0530 seeker-kuliza (4739)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4739
+[04/25/12 13:42:05 +0530 seeker-kuliza (4739)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:42:05 +0530 seeker-kuliza (4739)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:42:05 +0530 seeker-kuliza (4648)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:42:06 +0530 seeker-kuliza (4648)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:42:06 +0530 seeker-kuliza (4648)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:42:06 +0530 seeker-kuliza (4739)] INFO : Starting the worker thread in 4739 after forking.
+[04/25/12 13:42:10 +0530 seeker-kuliza (4761)] INFO : Dispatcher: passenger
+[04/25/12 13:42:10 +0530 seeker-kuliza (4761)] INFO : Application: Graylog2
+[04/25/12 13:42:10 +0530 seeker-kuliza (4761)] ERROR : Invalid license key: here
+[04/25/12 13:42:10 +0530 seeker-kuliza (4761)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4761
+[04/25/12 13:42:10 +0530 seeker-kuliza (4761)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:42:10 +0530 seeker-kuliza (4761)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:42:12 +0530 seeker-kuliza (4761)] INFO : Starting the worker thread in 4761 after forking.
+[04/25/12 13:42:15 +0530 seeker-kuliza (4784)] INFO : Dispatcher: passenger
+[04/25/12 13:42:15 +0530 seeker-kuliza (4784)] INFO : Application: Graylog2
+[04/25/12 13:42:15 +0530 seeker-kuliza (4784)] ERROR : Invalid license key: here
+[04/25/12 13:42:15 +0530 seeker-kuliza (4784)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 4784
+[04/25/12 13:42:15 +0530 seeker-kuliza (4784)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:42:15 +0530 seeker-kuliza (4784)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:42:17 +0530 seeker-kuliza (4739)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:42:17 +0530 seeker-kuliza (4784)] INFO : Starting the worker thread in 4784 after forking.
+[04/25/12 13:42:18 +0530 seeker-kuliza (4739)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:42:18 +0530 seeker-kuliza (4739)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:42:22 +0530 seeker-kuliza (4761)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:42:23 +0530 seeker-kuliza (4761)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:42:23 +0530 seeker-kuliza (4761)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:42:27 +0530 seeker-kuliza (4784)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:42:29 +0530 seeker-kuliza (4784)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:42:29 +0530 seeker-kuliza (4784)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:47:21 +0530 seeker-kuliza (5553)] INFO : Dispatcher: passenger
+[04/25/12 13:47:21 +0530 seeker-kuliza (5553)] INFO : Application: Graylog2
+[04/25/12 13:47:21 +0530 seeker-kuliza (5553)] ERROR : Invalid license key: here
+[04/25/12 13:47:21 +0530 seeker-kuliza (5553)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5553
+[04/25/12 13:47:21 +0530 seeker-kuliza (5553)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:47:21 +0530 seeker-kuliza (5553)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:47:22 +0530 seeker-kuliza (5553)] INFO : Starting the worker thread in 5553 after forking.
+[04/25/12 13:47:31 +0530 seeker-kuliza (5600)] INFO : Dispatcher: passenger
+[04/25/12 13:47:31 +0530 seeker-kuliza (5600)] INFO : Application: Graylog2
+[04/25/12 13:47:31 +0530 seeker-kuliza (5600)] ERROR : Invalid license key: here
+[04/25/12 13:47:31 +0530 seeker-kuliza (5600)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5600
+[04/25/12 13:47:31 +0530 seeker-kuliza (5600)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:47:31 +0530 seeker-kuliza (5600)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:47:32 +0530 seeker-kuliza (5553)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:47:33 +0530 seeker-kuliza (5600)] INFO : Starting the worker thread in 5600 after forking.
+[04/25/12 13:47:33 +0530 seeker-kuliza (5553)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:47:33 +0530 seeker-kuliza (5553)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:47:37 +0530 seeker-kuliza (5624)] INFO : Dispatcher: passenger
+[04/25/12 13:47:37 +0530 seeker-kuliza (5624)] INFO : Application: Graylog2
+[04/25/12 13:47:37 +0530 seeker-kuliza (5624)] ERROR : Invalid license key: here
+[04/25/12 13:47:37 +0530 seeker-kuliza (5624)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5624
+[04/25/12 13:47:37 +0530 seeker-kuliza (5624)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:47:37 +0530 seeker-kuliza (5624)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:47:38 +0530 seeker-kuliza (5624)] INFO : Starting the worker thread in 5624 after forking.
+[04/25/12 13:47:43 +0530 seeker-kuliza (5600)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:47:44 +0530 seeker-kuliza (5600)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:47:44 +0530 seeker-kuliza (5600)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:47:48 +0530 seeker-kuliza (5624)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:47:49 +0530 seeker-kuliza (5624)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:47:49 +0530 seeker-kuliza (5624)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:49:33 +0530 seeker-kuliza (5991)] INFO : Dispatcher: passenger
+[04/25/12 13:49:33 +0530 seeker-kuliza (5991)] INFO : Application: Graylog2
+[04/25/12 13:49:33 +0530 seeker-kuliza (5991)] ERROR : Invalid license key: here
+[04/25/12 13:49:33 +0530 seeker-kuliza (5991)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5991
+[04/25/12 13:49:33 +0530 seeker-kuliza (5991)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:49:33 +0530 seeker-kuliza (5991)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:49:34 +0530 seeker-kuliza (5991)] INFO : Starting the worker thread in 5991 after forking.
+[04/25/12 13:49:44 +0530 seeker-kuliza (6045)] INFO : Dispatcher: passenger
+[04/25/12 13:49:44 +0530 seeker-kuliza (6045)] INFO : Application: Graylog2
+[04/25/12 13:49:44 +0530 seeker-kuliza (6045)] ERROR : Invalid license key: here
+[04/25/12 13:49:44 +0530 seeker-kuliza (6045)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6045
+[04/25/12 13:49:44 +0530 seeker-kuliza (6045)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:49:44 +0530 seeker-kuliza (6045)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:49:45 +0530 seeker-kuliza (5991)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:49:45 +0530 seeker-kuliza (6045)] INFO : Starting the worker thread in 6045 after forking.
+[04/25/12 13:49:45 +0530 seeker-kuliza (5991)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:49:45 +0530 seeker-kuliza (5991)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:49:49 +0530 seeker-kuliza (6067)] INFO : Dispatcher: passenger
+[04/25/12 13:49:49 +0530 seeker-kuliza (6067)] INFO : Application: Graylog2
+[04/25/12 13:49:49 +0530 seeker-kuliza (6067)] ERROR : Invalid license key: here
+[04/25/12 13:49:49 +0530 seeker-kuliza (6067)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6067
+[04/25/12 13:49:49 +0530 seeker-kuliza (6067)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:49:49 +0530 seeker-kuliza (6067)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:49:50 +0530 seeker-kuliza (6067)] INFO : Starting the worker thread in 6067 after forking.
+[04/25/12 13:49:55 +0530 seeker-kuliza (6045)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:49:56 +0530 seeker-kuliza (6045)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:49:56 +0530 seeker-kuliza (6045)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:50:01 +0530 seeker-kuliza (6067)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:50:03 +0530 seeker-kuliza (6067)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:50:03 +0530 seeker-kuliza (6067)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:51:24 +0530 seeker-kuliza (6410)] INFO : Dispatcher: passenger
+[04/25/12 13:51:24 +0530 seeker-kuliza (6410)] INFO : Application: Graylog2
+[04/25/12 13:51:24 +0530 seeker-kuliza (6410)] ERROR : Invalid license key: here
+[04/25/12 13:51:24 +0530 seeker-kuliza (6410)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6410
+[04/25/12 13:51:24 +0530 seeker-kuliza (6410)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:51:24 +0530 seeker-kuliza (6410)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:51:26 +0530 seeker-kuliza (6410)] INFO : Starting the worker thread in 6410 after forking.
+[04/25/12 13:51:29 +0530 seeker-kuliza (6444)] INFO : Dispatcher: passenger
+[04/25/12 13:51:29 +0530 seeker-kuliza (6444)] INFO : Application: Graylog2
+[04/25/12 13:51:29 +0530 seeker-kuliza (6444)] ERROR : Invalid license key: here
+[04/25/12 13:51:29 +0530 seeker-kuliza (6444)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6444
+[04/25/12 13:51:29 +0530 seeker-kuliza (6444)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:51:29 +0530 seeker-kuliza (6444)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:51:31 +0530 seeker-kuliza (6444)] INFO : Starting the worker thread in 6444 after forking.
+[04/25/12 13:51:35 +0530 seeker-kuliza (6469)] INFO : Dispatcher: passenger
+[04/25/12 13:51:35 +0530 seeker-kuliza (6469)] INFO : Application: Graylog2
+[04/25/12 13:51:35 +0530 seeker-kuliza (6469)] ERROR : Invalid license key: here
+[04/25/12 13:51:35 +0530 seeker-kuliza (6469)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6469
+[04/25/12 13:51:35 +0530 seeker-kuliza (6469)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:51:35 +0530 seeker-kuliza (6469)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:51:36 +0530 seeker-kuliza (6410)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:51:36 +0530 seeker-kuliza (6469)] INFO : Starting the worker thread in 6469 after forking.
+[04/25/12 13:51:37 +0530 seeker-kuliza (6410)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:51:37 +0530 seeker-kuliza (6410)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:51:41 +0530 seeker-kuliza (6444)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:51:42 +0530 seeker-kuliza (6444)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:51:42 +0530 seeker-kuliza (6444)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:51:47 +0530 seeker-kuliza (6469)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:51:51 +0530 seeker-kuliza (6469)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:51:51 +0530 seeker-kuliza (6469)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:52:41 +0530 seeker-kuliza (6739)] INFO : Dispatcher: passenger
+[04/25/12 13:52:41 +0530 seeker-kuliza (6739)] INFO : Application: Graylog2
+[04/25/12 13:52:41 +0530 seeker-kuliza (6739)] ERROR : Invalid license key: here
+[04/25/12 13:52:41 +0530 seeker-kuliza (6739)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6739
+[04/25/12 13:52:41 +0530 seeker-kuliza (6739)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:52:41 +0530 seeker-kuliza (6739)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:52:42 +0530 seeker-kuliza (6739)] INFO : Starting the worker thread in 6739 after forking.
+[04/25/12 13:52:46 +0530 seeker-kuliza (6757)] INFO : Dispatcher: passenger
+[04/25/12 13:52:46 +0530 seeker-kuliza (6757)] INFO : Application: Graylog2
+[04/25/12 13:52:46 +0530 seeker-kuliza (6757)] ERROR : Invalid license key: here
+[04/25/12 13:52:46 +0530 seeker-kuliza (6757)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6757
+[04/25/12 13:52:46 +0530 seeker-kuliza (6757)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:52:46 +0530 seeker-kuliza (6757)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:52:48 +0530 seeker-kuliza (6757)] INFO : Starting the worker thread in 6757 after forking.
+[04/25/12 13:52:51 +0530 seeker-kuliza (6779)] INFO : Dispatcher: passenger
+[04/25/12 13:52:51 +0530 seeker-kuliza (6779)] INFO : Application: Graylog2
+[04/25/12 13:52:51 +0530 seeker-kuliza (6779)] ERROR : Invalid license key: here
+[04/25/12 13:52:51 +0530 seeker-kuliza (6779)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6779
+[04/25/12 13:52:51 +0530 seeker-kuliza (6779)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 13:52:51 +0530 seeker-kuliza (6779)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 13:52:52 +0530 seeker-kuliza (6739)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:52:53 +0530 seeker-kuliza (6779)] INFO : Starting the worker thread in 6779 after forking.
+[04/25/12 13:52:53 +0530 seeker-kuliza (6739)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:52:53 +0530 seeker-kuliza (6739)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:52:58 +0530 seeker-kuliza (6757)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:52:58 +0530 seeker-kuliza (6757)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:52:58 +0530 seeker-kuliza (6757)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 13:53:03 +0530 seeker-kuliza (6779)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 13:53:04 +0530 seeker-kuliza (6779)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 13:53:04 +0530 seeker-kuliza (6779)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:15:19 +0530 seeker-kuliza (7876)] INFO : Dispatcher: passenger
+[04/25/12 14:15:19 +0530 seeker-kuliza (7876)] INFO : Application: Graylog2
+[04/25/12 14:15:19 +0530 seeker-kuliza (7876)] ERROR : Invalid license key: here
+[04/25/12 14:15:19 +0530 seeker-kuliza (7876)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7876
+[04/25/12 14:15:19 +0530 seeker-kuliza (7876)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:15:19 +0530 seeker-kuliza (7876)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:15:21 +0530 seeker-kuliza (7876)] INFO : Starting the worker thread in 7876 after forking.
+[04/25/12 14:15:25 +0530 seeker-kuliza (7896)] INFO : Dispatcher: passenger
+[04/25/12 14:15:25 +0530 seeker-kuliza (7896)] INFO : Application: Graylog2
+[04/25/12 14:15:25 +0530 seeker-kuliza (7896)] ERROR : Invalid license key: here
+[04/25/12 14:15:25 +0530 seeker-kuliza (7896)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7896
+[04/25/12 14:15:25 +0530 seeker-kuliza (7896)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:15:25 +0530 seeker-kuliza (7896)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:15:26 +0530 seeker-kuliza (7896)] INFO : Starting the worker thread in 7896 after forking.
+[04/25/12 14:15:30 +0530 seeker-kuliza (7910)] INFO : Dispatcher: passenger
+[04/25/12 14:15:30 +0530 seeker-kuliza (7910)] INFO : Application: Graylog2
+[04/25/12 14:15:30 +0530 seeker-kuliza (7910)] ERROR : Invalid license key: here
+[04/25/12 14:15:30 +0530 seeker-kuliza (7910)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7910
+[04/25/12 14:15:30 +0530 seeker-kuliza (7910)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:15:30 +0530 seeker-kuliza (7910)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:15:31 +0530 seeker-kuliza (7876)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:15:32 +0530 seeker-kuliza (7910)] INFO : Starting the worker thread in 7910 after forking.
+[04/25/12 14:15:33 +0530 seeker-kuliza (7876)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:15:33 +0530 seeker-kuliza (7876)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:15:35 +0530 seeker-kuliza (7920)] INFO : Dispatcher: passenger
+[04/25/12 14:15:35 +0530 seeker-kuliza (7920)] INFO : Application: Graylog2
+[04/25/12 14:15:35 +0530 seeker-kuliza (7920)] ERROR : Invalid license key: here
+[04/25/12 14:15:35 +0530 seeker-kuliza (7920)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7920
+[04/25/12 14:15:35 +0530 seeker-kuliza (7920)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:15:35 +0530 seeker-kuliza (7920)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:15:36 +0530 seeker-kuliza (7896)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:15:37 +0530 seeker-kuliza (7920)] INFO : Starting the worker thread in 7920 after forking.
+[04/25/12 14:15:38 +0530 seeker-kuliza (7896)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:15:38 +0530 seeker-kuliza (7896)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:15:42 +0530 seeker-kuliza (7910)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:15:42 +0530 seeker-kuliza (7910)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:15:42 +0530 seeker-kuliza (7910)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:15:47 +0530 seeker-kuliza (7920)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:15:48 +0530 seeker-kuliza (7920)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:15:48 +0530 seeker-kuliza (7920)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:41:18 +0530 seeker-kuliza (9450)] INFO : Dispatcher: passenger
+[04/25/12 14:41:18 +0530 seeker-kuliza (9450)] INFO : Application: Graylog2
+[04/25/12 14:41:18 +0530 seeker-kuliza (9450)] ERROR : Invalid license key: here
+[04/25/12 14:41:18 +0530 seeker-kuliza (9450)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9450
+[04/25/12 14:41:18 +0530 seeker-kuliza (9450)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:41:18 +0530 seeker-kuliza (9450)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:41:21 +0530 seeker-kuliza (9450)] INFO : Starting the worker thread in 9450 after forking.
+[04/25/12 14:41:30 +0530 seeker-kuliza (9498)] INFO : Dispatcher: passenger
+[04/25/12 14:41:30 +0530 seeker-kuliza (9498)] INFO : Application: Graylog2
+[04/25/12 14:41:30 +0530 seeker-kuliza (9498)] ERROR : Invalid license key: here
+[04/25/12 14:41:30 +0530 seeker-kuliza (9498)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9498
+[04/25/12 14:41:30 +0530 seeker-kuliza (9498)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:41:30 +0530 seeker-kuliza (9498)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:41:31 +0530 seeker-kuliza (9450)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:41:32 +0530 seeker-kuliza (9498)] INFO : Starting the worker thread in 9498 after forking.
+[04/25/12 14:41:33 +0530 seeker-kuliza (9450)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:41:33 +0530 seeker-kuliza (9450)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:41:35 +0530 seeker-kuliza (9510)] INFO : Dispatcher: passenger
+[04/25/12 14:41:35 +0530 seeker-kuliza (9510)] INFO : Application: Graylog2
+[04/25/12 14:41:35 +0530 seeker-kuliza (9510)] ERROR : Invalid license key: here
+[04/25/12 14:41:35 +0530 seeker-kuliza (9510)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9510
+[04/25/12 14:41:35 +0530 seeker-kuliza (9510)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:41:35 +0530 seeker-kuliza (9510)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:41:37 +0530 seeker-kuliza (9510)] INFO : Starting the worker thread in 9510 after forking.
+[04/25/12 14:41:42 +0530 seeker-kuliza (9498)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:41:43 +0530 seeker-kuliza (9498)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:41:43 +0530 seeker-kuliza (9498)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:41:47 +0530 seeker-kuliza (9510)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:41:49 +0530 seeker-kuliza (9510)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:41:49 +0530 seeker-kuliza (9510)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:53:31 +0530 seeker-kuliza (10128)] INFO : Dispatcher: passenger
+[04/25/12 14:53:31 +0530 seeker-kuliza (10128)] INFO : Application: Graylog2
+[04/25/12 14:53:31 +0530 seeker-kuliza (10128)] ERROR : Invalid license key: here
+[04/25/12 14:53:31 +0530 seeker-kuliza (10128)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10128
+[04/25/12 14:53:31 +0530 seeker-kuliza (10128)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:53:31 +0530 seeker-kuliza (10128)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:53:32 +0530 seeker-kuliza (10128)] INFO : Starting the worker thread in 10128 after forking.
+[04/25/12 14:53:37 +0530 seeker-kuliza (10161)] INFO : Dispatcher: passenger
+[04/25/12 14:53:37 +0530 seeker-kuliza (10161)] INFO : Application: Graylog2
+[04/25/12 14:53:37 +0530 seeker-kuliza (10161)] ERROR : Invalid license key: here
+[04/25/12 14:53:37 +0530 seeker-kuliza (10161)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10161
+[04/25/12 14:53:37 +0530 seeker-kuliza (10161)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:53:37 +0530 seeker-kuliza (10161)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:53:39 +0530 seeker-kuliza (10161)] INFO : Starting the worker thread in 10161 after forking.
+[04/25/12 14:53:42 +0530 seeker-kuliza (10178)] INFO : Dispatcher: passenger
+[04/25/12 14:53:42 +0530 seeker-kuliza (10178)] INFO : Application: Graylog2
+[04/25/12 14:53:42 +0530 seeker-kuliza (10178)] ERROR : Invalid license key: here
+[04/25/12 14:53:42 +0530 seeker-kuliza (10178)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10178
+[04/25/12 14:53:42 +0530 seeker-kuliza (10178)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:53:42 +0530 seeker-kuliza (10178)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:53:43 +0530 seeker-kuliza (10128)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:53:43 +0530 seeker-kuliza (10128)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:53:43 +0530 seeker-kuliza (10128)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:53:44 +0530 seeker-kuliza (10178)] INFO : Starting the worker thread in 10178 after forking.
+[04/25/12 14:53:48 +0530 seeker-kuliza (10190)] INFO : Dispatcher: passenger
+[04/25/12 14:53:48 +0530 seeker-kuliza (10190)] INFO : Application: Graylog2
+[04/25/12 14:53:48 +0530 seeker-kuliza (10190)] ERROR : Invalid license key: here
+[04/25/12 14:53:48 +0530 seeker-kuliza (10190)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10190
+[04/25/12 14:53:48 +0530 seeker-kuliza (10190)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/25/12 14:53:48 +0530 seeker-kuliza (10190)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/25/12 14:53:49 +0530 seeker-kuliza (10161)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:53:49 +0530 seeker-kuliza (10190)] INFO : Starting the worker thread in 10190 after forking.
+[04/25/12 14:53:50 +0530 seeker-kuliza (10161)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:53:50 +0530 seeker-kuliza (10161)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:53:54 +0530 seeker-kuliza (10178)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:53:55 +0530 seeker-kuliza (10178)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:53:55 +0530 seeker-kuliza (10178)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/25/12 14:53:59 +0530 seeker-kuliza (10190)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/25/12 14:54:01 +0530 seeker-kuliza (10190)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/25/12 14:54:01 +0530 seeker-kuliza (10190)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 11:45:58 +0530 seeker-kuliza (15571)] INFO : Dispatcher: webrick
+[04/26/12 11:45:58 +0530 seeker-kuliza (15571)] INFO : Application: Graylog2
+[04/26/12 11:45:58 +0530 seeker-kuliza (15571)] ERROR : Invalid license key: here
+[04/26/12 11:45:58 +0530 seeker-kuliza (15571)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15571
+[04/26/12 11:45:58 +0530 seeker-kuliza (15571)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 11:57:16 +0530 seeker-kuliza (16197)] INFO : Dispatcher: passenger
+[04/26/12 11:57:16 +0530 seeker-kuliza (16197)] INFO : Application: Graylog2
+[04/26/12 11:57:16 +0530 seeker-kuliza (16197)] ERROR : Invalid license key: here
+[04/26/12 11:57:16 +0530 seeker-kuliza (16197)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16197
+[04/26/12 11:57:16 +0530 seeker-kuliza (16197)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 11:57:16 +0530 seeker-kuliza (16197)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 11:57:17 +0530 seeker-kuliza (16197)] INFO : Starting the worker thread in 16197 after forking.
+[04/26/12 11:57:21 +0530 seeker-kuliza (16219)] INFO : Dispatcher: passenger
+[04/26/12 11:57:21 +0530 seeker-kuliza (16219)] INFO : Application: Graylog2
+[04/26/12 11:57:21 +0530 seeker-kuliza (16219)] ERROR : Invalid license key: here
+[04/26/12 11:57:21 +0530 seeker-kuliza (16219)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16219
+[04/26/12 11:57:21 +0530 seeker-kuliza (16219)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 11:57:21 +0530 seeker-kuliza (16219)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 11:57:23 +0530 seeker-kuliza (16219)] INFO : Starting the worker thread in 16219 after forking.
+[04/26/12 11:57:27 +0530 seeker-kuliza (16233)] INFO : Dispatcher: passenger
+[04/26/12 11:57:27 +0530 seeker-kuliza (16233)] INFO : Application: Graylog2
+[04/26/12 11:57:27 +0530 seeker-kuliza (16233)] ERROR : Invalid license key: here
+[04/26/12 11:57:27 +0530 seeker-kuliza (16233)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16233
+[04/26/12 11:57:27 +0530 seeker-kuliza (16233)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 11:57:27 +0530 seeker-kuliza (16233)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 11:57:28 +0530 seeker-kuliza (16233)] INFO : Starting the worker thread in 16233 after forking.
+[04/26/12 11:57:32 +0530 seeker-kuliza (16253)] INFO : Dispatcher: passenger
+[04/26/12 11:57:32 +0530 seeker-kuliza (16253)] INFO : Application: Graylog2
+[04/26/12 11:57:32 +0530 seeker-kuliza (16253)] ERROR : Invalid license key: here
+[04/26/12 11:57:32 +0530 seeker-kuliza (16253)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16253
+[04/26/12 11:57:32 +0530 seeker-kuliza (16253)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 11:57:32 +0530 seeker-kuliza (16253)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 11:57:33 +0530 seeker-kuliza (16197)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 11:57:33 +0530 seeker-kuliza (16219)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 11:57:34 +0530 seeker-kuliza (16253)] INFO : Starting the worker thread in 16253 after forking.
+[04/26/12 11:57:34 +0530 seeker-kuliza (16197)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 11:57:34 +0530 seeker-kuliza (16197)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 11:57:35 +0530 seeker-kuliza (16219)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 11:57:35 +0530 seeker-kuliza (16219)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 11:57:38 +0530 seeker-kuliza (16263)] INFO : Dispatcher: passenger
+[04/26/12 11:57:38 +0530 seeker-kuliza (16263)] INFO : Application: Graylog2
+[04/26/12 11:57:38 +0530 seeker-kuliza (16263)] ERROR : Invalid license key: here
+[04/26/12 11:57:38 +0530 seeker-kuliza (16263)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16263
+[04/26/12 11:57:38 +0530 seeker-kuliza (16263)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 11:57:38 +0530 seeker-kuliza (16263)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 11:57:39 +0530 seeker-kuliza (16233)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 11:57:39 +0530 seeker-kuliza (16263)] INFO : Starting the worker thread in 16263 after forking.
+[04/26/12 11:57:39 +0530 seeker-kuliza (16233)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 11:57:39 +0530 seeker-kuliza (16233)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 11:57:43 +0530 seeker-kuliza (16273)] INFO : Dispatcher: passenger
+[04/26/12 11:57:43 +0530 seeker-kuliza (16273)] INFO : Application: Graylog2
+[04/26/12 11:57:43 +0530 seeker-kuliza (16273)] ERROR : Invalid license key: here
+[04/26/12 11:57:43 +0530 seeker-kuliza (16273)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16273
+[04/26/12 11:57:43 +0530 seeker-kuliza (16273)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 11:57:43 +0530 seeker-kuliza (16273)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 11:57:44 +0530 seeker-kuliza (16253)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 11:57:45 +0530 seeker-kuliza (16253)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 11:57:45 +0530 seeker-kuliza (16253)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 11:57:45 +0530 seeker-kuliza (16273)] INFO : Starting the worker thread in 16273 after forking.
+[04/26/12 11:57:49 +0530 seeker-kuliza (16263)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 11:57:50 +0530 seeker-kuliza (16263)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 11:57:50 +0530 seeker-kuliza (16263)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 11:57:55 +0530 seeker-kuliza (16273)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 11:57:56 +0530 seeker-kuliza (16273)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 11:57:56 +0530 seeker-kuliza (16273)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 12:30:49 +0530 seeker-kuliza (18054)] INFO : Dispatcher: passenger
+[04/26/12 12:30:49 +0530 seeker-kuliza (18054)] INFO : Application: Graylog2
+[04/26/12 12:30:49 +0530 seeker-kuliza (18054)] ERROR : Invalid license key: here
+[04/26/12 12:30:49 +0530 seeker-kuliza (18054)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18054
+[04/26/12 12:30:49 +0530 seeker-kuliza (18054)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 12:30:49 +0530 seeker-kuliza (18054)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 12:30:51 +0530 seeker-kuliza (18054)] INFO : Starting the worker thread in 18054 after forking.
+[04/26/12 12:31:01 +0530 seeker-kuliza (18054)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 12:31:02 +0530 seeker-kuliza (18054)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 12:31:02 +0530 seeker-kuliza (18054)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 12:31:03 +0530 seeker-kuliza (18093)] INFO : Dispatcher: passenger
+[04/26/12 12:31:03 +0530 seeker-kuliza (18093)] INFO : Application: Graylog2
+[04/26/12 12:31:03 +0530 seeker-kuliza (18093)] ERROR : Invalid license key: here
+[04/26/12 12:31:03 +0530 seeker-kuliza (18093)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18093
+[04/26/12 12:31:03 +0530 seeker-kuliza (18093)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 12:31:03 +0530 seeker-kuliza (18093)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 12:31:05 +0530 seeker-kuliza (18093)] INFO : Starting the worker thread in 18093 after forking.
+[04/26/12 12:31:08 +0530 seeker-kuliza (18109)] INFO : Dispatcher: passenger
+[04/26/12 12:31:08 +0530 seeker-kuliza (18109)] INFO : Application: Graylog2
+[04/26/12 12:31:08 +0530 seeker-kuliza (18109)] ERROR : Invalid license key: here
+[04/26/12 12:31:08 +0530 seeker-kuliza (18109)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 18109
+[04/26/12 12:31:08 +0530 seeker-kuliza (18109)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 12:31:08 +0530 seeker-kuliza (18109)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 12:31:10 +0530 seeker-kuliza (18109)] INFO : Starting the worker thread in 18109 after forking.
+[04/26/12 12:31:20 +0530 seeker-kuliza (18093)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 12:31:21 +0530 seeker-kuliza (18109)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 12:31:21 +0530 seeker-kuliza (18093)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 12:31:21 +0530 seeker-kuliza (18093)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 12:31:22 +0530 seeker-kuliza (18109)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 12:31:22 +0530 seeker-kuliza (18109)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/26/12 14:12:11 +0530 seeker-kuliza (21653)] INFO : Dispatcher: passenger
+[04/26/12 14:12:11 +0530 seeker-kuliza (21653)] INFO : Application: Graylog2
+[04/26/12 14:12:11 +0530 seeker-kuliza (21653)] ERROR : Invalid license key: here
+[04/26/12 14:12:11 +0530 seeker-kuliza (21653)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 21653
+[04/26/12 14:12:11 +0530 seeker-kuliza (21653)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/26/12 14:12:12 +0530 seeker-kuliza (21653)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/26/12 14:12:13 +0530 seeker-kuliza (21653)] INFO : Starting the worker thread in 21653 after forking.
+[04/26/12 14:12:23 +0530 seeker-kuliza (21653)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/26/12 14:12:24 +0530 seeker-kuliza (21653)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/26/12 14:12:24 +0530 seeker-kuliza (21653)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/30/12 09:34:22 +0530 seeker-kuliza (16412)] INFO : Dispatcher: webrick
+[04/30/12 09:34:22 +0530 seeker-kuliza (16412)] INFO : Application: Graylog2
+[04/30/12 09:34:22 +0530 seeker-kuliza (16412)] ERROR : Invalid license key: here
+[04/30/12 09:34:22 +0530 seeker-kuliza (16412)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16412
+[04/30/12 09:34:22 +0530 seeker-kuliza (16412)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/30/12 09:35:30 +0530 seeker-kuliza (16578)] INFO : Dispatcher: passenger
+[04/30/12 09:35:30 +0530 seeker-kuliza (16578)] INFO : Application: Graylog2
+[04/30/12 09:35:30 +0530 seeker-kuliza (16578)] ERROR : Invalid license key: here
+[04/30/12 09:35:30 +0530 seeker-kuliza (16578)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16578
+[04/30/12 09:35:30 +0530 seeker-kuliza (16578)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/30/12 09:35:30 +0530 seeker-kuliza (16578)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/30/12 09:35:32 +0530 seeker-kuliza (16578)] INFO : Starting the worker thread in 16578 after forking.
+[04/30/12 09:35:42 +0530 seeker-kuliza (16578)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/30/12 09:35:43 +0530 seeker-kuliza (16578)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/30/12 09:35:43 +0530 seeker-kuliza (16578)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/30/12 09:36:00 +0530 seeker-kuliza (16663)] INFO : Dispatcher: passenger
+[04/30/12 09:36:00 +0530 seeker-kuliza (16663)] INFO : Application: Graylog2
+[04/30/12 09:36:00 +0530 seeker-kuliza (16663)] ERROR : Invalid license key: here
+[04/30/12 09:36:00 +0530 seeker-kuliza (16663)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16663
+[04/30/12 09:36:00 +0530 seeker-kuliza (16663)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/30/12 09:36:00 +0530 seeker-kuliza (16663)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/30/12 09:36:02 +0530 seeker-kuliza (16663)] INFO : Starting the worker thread in 16663 after forking.
+[04/30/12 09:36:06 +0530 seeker-kuliza (16675)] INFO : Dispatcher: passenger
+[04/30/12 09:36:06 +0530 seeker-kuliza (16675)] INFO : Application: Graylog2
+[04/30/12 09:36:06 +0530 seeker-kuliza (16675)] ERROR : Invalid license key: here
+[04/30/12 09:36:06 +0530 seeker-kuliza (16675)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16675
+[04/30/12 09:36:06 +0530 seeker-kuliza (16675)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/30/12 09:36:06 +0530 seeker-kuliza (16675)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/30/12 09:36:07 +0530 seeker-kuliza (16675)] INFO : Starting the worker thread in 16675 after forking.
+[04/30/12 09:36:12 +0530 seeker-kuliza (16663)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/30/12 09:36:13 +0530 seeker-kuliza (16663)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/30/12 09:36:13 +0530 seeker-kuliza (16663)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/30/12 09:36:17 +0530 seeker-kuliza (16675)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/30/12 09:36:18 +0530 seeker-kuliza (16675)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/30/12 09:36:18 +0530 seeker-kuliza (16675)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/30/12 13:41:36 +0530 seeker-kuliza (30540)] INFO : Dispatcher: passenger
+[04/30/12 13:41:36 +0530 seeker-kuliza (30540)] INFO : Application: Graylog2
+[04/30/12 13:41:36 +0530 seeker-kuliza (30540)] ERROR : Invalid license key: here
+[04/30/12 13:41:36 +0530 seeker-kuliza (30540)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 30540
+[04/30/12 13:41:36 +0530 seeker-kuliza (30540)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/30/12 13:41:36 +0530 seeker-kuliza (30540)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/30/12 13:41:41 +0530 seeker-kuliza (30540)] INFO : Starting the worker thread in 30540 after forking.
+[04/30/12 13:41:51 +0530 seeker-kuliza (30540)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/30/12 13:41:52 +0530 seeker-kuliza (30540)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/30/12 13:41:52 +0530 seeker-kuliza (30540)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/30/12 13:41:53 +0530 seeker-kuliza (31176)] INFO : Dispatcher: passenger
+[04/30/12 13:41:53 +0530 seeker-kuliza (31176)] INFO : Application: Graylog2
+[04/30/12 13:41:53 +0530 seeker-kuliza (31176)] ERROR : Invalid license key: here
+[04/30/12 13:41:53 +0530 seeker-kuliza (31176)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31176
+[04/30/12 13:41:53 +0530 seeker-kuliza (31176)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/30/12 13:41:53 +0530 seeker-kuliza (31176)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/30/12 13:41:54 +0530 seeker-kuliza (31176)] INFO : Starting the worker thread in 31176 after forking.
+[04/30/12 13:41:58 +0530 seeker-kuliza (31202)] INFO : Dispatcher: passenger
+[04/30/12 13:41:58 +0530 seeker-kuliza (31202)] INFO : Application: Graylog2
+[04/30/12 13:41:58 +0530 seeker-kuliza (31202)] ERROR : Invalid license key: here
+[04/30/12 13:41:58 +0530 seeker-kuliza (31202)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31202
+[04/30/12 13:41:58 +0530 seeker-kuliza (31202)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/30/12 13:41:58 +0530 seeker-kuliza (31202)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/30/12 13:41:59 +0530 seeker-kuliza (31202)] INFO : Starting the worker thread in 31202 after forking.
+[04/30/12 13:42:03 +0530 seeker-kuliza (31213)] INFO : Dispatcher: passenger
+[04/30/12 13:42:03 +0530 seeker-kuliza (31213)] INFO : Application: Graylog2
+[04/30/12 13:42:03 +0530 seeker-kuliza (31213)] ERROR : Invalid license key: here
+[04/30/12 13:42:03 +0530 seeker-kuliza (31213)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 31213
+[04/30/12 13:42:03 +0530 seeker-kuliza (31213)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[04/30/12 13:42:03 +0530 seeker-kuliza (31213)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[04/30/12 13:42:04 +0530 seeker-kuliza (31176)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/30/12 13:42:04 +0530 seeker-kuliza (31213)] INFO : Starting the worker thread in 31213 after forking.
+[04/30/12 13:42:05 +0530 seeker-kuliza (31176)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/30/12 13:42:05 +0530 seeker-kuliza (31176)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/30/12 13:42:10 +0530 seeker-kuliza (31202)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/30/12 13:42:10 +0530 seeker-kuliza (31202)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/30/12 13:42:10 +0530 seeker-kuliza (31202)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[04/30/12 13:42:15 +0530 seeker-kuliza (31213)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[04/30/12 13:42:15 +0530 seeker-kuliza (31213)] ERROR : Invalid license key, please contact support@newrelic.com
+[04/30/12 13:42:15 +0530 seeker-kuliza (31213)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[05/02/12 20:39:58 +0530 seeker-kuliza (5582)] INFO : Dispatcher: webrick
+[05/02/12 20:39:58 +0530 seeker-kuliza (5582)] INFO : Application: Graylog2
+[05/02/12 20:39:58 +0530 seeker-kuliza (5582)] ERROR : Invalid license key: here
+[05/02/12 20:39:58 +0530 seeker-kuliza (5582)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5582
+[05/02/12 20:39:58 +0530 seeker-kuliza (5582)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 20:45:17 +0530 seeker-kuliza (5909)] INFO : Dispatcher: passenger
+[05/02/12 20:45:17 +0530 seeker-kuliza (5909)] INFO : Application: Graylog2
+[05/02/12 20:45:17 +0530 seeker-kuliza (5909)] ERROR : Invalid license key: here
+[05/02/12 20:45:17 +0530 seeker-kuliza (5909)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5909
+[05/02/12 20:45:17 +0530 seeker-kuliza (5909)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 20:45:17 +0530 seeker-kuliza (5909)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[05/02/12 20:45:18 +0530 seeker-kuliza (5909)] INFO : Starting the worker thread in 5909 after forking.
+[05/02/12 20:45:35 +0530 seeker-kuliza (5909)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[05/02/12 20:45:36 +0530 seeker-kuliza (5975)] INFO : Dispatcher: passenger
+[05/02/12 20:45:36 +0530 seeker-kuliza (5975)] INFO : Application: Graylog2
+[05/02/12 20:45:36 +0530 seeker-kuliza (5975)] ERROR : Invalid license key: here
+[05/02/12 20:45:36 +0530 seeker-kuliza (5975)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5975
+[05/02/12 20:45:36 +0530 seeker-kuliza (5975)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 20:45:36 +0530 seeker-kuliza (5975)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[05/02/12 20:45:38 +0530 seeker-kuliza (5975)] INFO : Starting the worker thread in 5975 after forking.
+[05/02/12 20:45:42 +0530 seeker-kuliza (5986)] INFO : Dispatcher: passenger
+[05/02/12 20:45:42 +0530 seeker-kuliza (5986)] INFO : Application: Graylog2
+[05/02/12 20:45:42 +0530 seeker-kuliza (5986)] ERROR : Invalid license key: here
+[05/02/12 20:45:42 +0530 seeker-kuliza (5986)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 5986
+[05/02/12 20:45:42 +0530 seeker-kuliza (5986)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 20:45:42 +0530 seeker-kuliza (5986)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[05/02/12 20:45:43 +0530 seeker-kuliza (5986)] INFO : Starting the worker thread in 5986 after forking.
+[05/02/12 20:45:52 +0530 seeker-kuliza (5975)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[05/02/12 20:45:56 +0530 seeker-kuliza (5909)] ERROR : Invalid license key, please contact support@newrelic.com
+[05/02/12 20:45:56 +0530 seeker-kuliza (5909)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[05/02/12 20:45:59 +0530 seeker-kuliza (5986)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[05/02/12 20:46:09 +0530 seeker-kuliza (5975)] ERROR : Invalid license key, please contact support@newrelic.com
+[05/02/12 20:46:09 +0530 seeker-kuliza (5975)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[05/02/12 20:46:12 +0530 seeker-kuliza (5986)] ERROR : Invalid license key, please contact support@newrelic.com
+[05/02/12 20:46:12 +0530 seeker-kuliza (5986)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[05/02/12 20:47:56 +0530 seeker-kuliza (6083)] INFO : Dispatcher: webrick
+[05/02/12 20:47:56 +0530 seeker-kuliza (6083)] INFO : Application: Graylog2
+[05/02/12 20:47:56 +0530 seeker-kuliza (6083)] ERROR : Invalid license key: here
+[05/02/12 20:47:56 +0530 seeker-kuliza (6083)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 6083
+[05/02/12 20:47:56 +0530 seeker-kuliza (6083)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:02:05 +0530 seeker-kuliza (7528)] INFO : Dispatcher: webrick
+[05/02/12 21:02:05 +0530 seeker-kuliza (7528)] INFO : Application: Graylog2
+[05/02/12 21:02:05 +0530 seeker-kuliza (7528)] ERROR : Invalid license key: here
+[05/02/12 21:02:05 +0530 seeker-kuliza (7528)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7528
+[05/02/12 21:02:05 +0530 seeker-kuliza (7528)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:03:26 +0530 seeker-kuliza (7565)] INFO : Dispatcher: webrick
+[05/02/12 21:03:26 +0530 seeker-kuliza (7565)] INFO : Application: Graylog2
+[05/02/12 21:03:26 +0530 seeker-kuliza (7565)] ERROR : Invalid license key: here
+[05/02/12 21:03:26 +0530 seeker-kuliza (7565)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7565
+[05/02/12 21:03:26 +0530 seeker-kuliza (7565)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:04:34 +0530 seeker-kuliza (7601)] INFO : Dispatcher: webrick
+[05/02/12 21:04:34 +0530 seeker-kuliza (7601)] INFO : Application: Graylog2
+[05/02/12 21:04:34 +0530 seeker-kuliza (7601)] ERROR : Invalid license key: here
+[05/02/12 21:04:34 +0530 seeker-kuliza (7601)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7601
+[05/02/12 21:04:34 +0530 seeker-kuliza (7601)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:12:24 +0530 seeker-kuliza (7891)] INFO : Dispatcher: webrick
+[05/02/12 21:12:24 +0530 seeker-kuliza (7891)] INFO : Application: Graylog2
+[05/02/12 21:12:24 +0530 seeker-kuliza (7891)] ERROR : Invalid license key: here
+[05/02/12 21:12:24 +0530 seeker-kuliza (7891)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7891
+[05/02/12 21:12:24 +0530 seeker-kuliza (7891)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:14:17 +0530 seeker-kuliza (7969)] INFO : Dispatcher: webrick
+[05/02/12 21:14:17 +0530 seeker-kuliza (7969)] INFO : Application: Graylog2
+[05/02/12 21:14:17 +0530 seeker-kuliza (7969)] ERROR : Invalid license key: here
+[05/02/12 21:14:17 +0530 seeker-kuliza (7969)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 7969
+[05/02/12 21:14:17 +0530 seeker-kuliza (7969)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:15:47 +0530 seeker-kuliza (8013)] INFO : Dispatcher: webrick
+[05/02/12 21:15:47 +0530 seeker-kuliza (8013)] INFO : Application: Graylog2
+[05/02/12 21:15:47 +0530 seeker-kuliza (8013)] ERROR : Invalid license key: here
+[05/02/12 21:15:47 +0530 seeker-kuliza (8013)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8013
+[05/02/12 21:15:47 +0530 seeker-kuliza (8013)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:16:36 +0530 seeker-kuliza (8037)] INFO : Dispatcher: webrick
+[05/02/12 21:16:36 +0530 seeker-kuliza (8037)] INFO : Application: Graylog2
+[05/02/12 21:16:36 +0530 seeker-kuliza (8037)] ERROR : Invalid license key: here
+[05/02/12 21:16:36 +0530 seeker-kuliza (8037)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8037
+[05/02/12 21:16:36 +0530 seeker-kuliza (8037)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:18:26 +0530 seeker-kuliza (8095)] INFO : Dispatcher: webrick
+[05/02/12 21:18:26 +0530 seeker-kuliza (8095)] INFO : Application: Graylog2
+[05/02/12 21:18:26 +0530 seeker-kuliza (8095)] ERROR : Invalid license key: here
+[05/02/12 21:18:26 +0530 seeker-kuliza (8095)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8095
+[05/02/12 21:18:26 +0530 seeker-kuliza (8095)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:23:24 +0530 seeker-kuliza (8227)] INFO : Dispatcher: webrick
+[05/02/12 21:23:24 +0530 seeker-kuliza (8227)] INFO : Application: Graylog2
+[05/02/12 21:23:24 +0530 seeker-kuliza (8227)] ERROR : Invalid license key: here
+[05/02/12 21:23:24 +0530 seeker-kuliza (8227)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8227
+[05/02/12 21:23:24 +0530 seeker-kuliza (8227)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:25:03 +0530 seeker-kuliza (8275)] INFO : Dispatcher: webrick
+[05/02/12 21:25:03 +0530 seeker-kuliza (8275)] INFO : Application: Graylog2
+[05/02/12 21:25:03 +0530 seeker-kuliza (8275)] ERROR : Invalid license key: here
+[05/02/12 21:25:03 +0530 seeker-kuliza (8275)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8275
+[05/02/12 21:25:03 +0530 seeker-kuliza (8275)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:25:44 +0530 seeker-kuliza (8296)] INFO : Dispatcher: webrick
+[05/02/12 21:25:44 +0530 seeker-kuliza (8296)] INFO : Application: Graylog2
+[05/02/12 21:25:44 +0530 seeker-kuliza (8296)] ERROR : Invalid license key: here
+[05/02/12 21:25:44 +0530 seeker-kuliza (8296)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8296
+[05/02/12 21:25:44 +0530 seeker-kuliza (8296)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 21:27:23 +0530 seeker-kuliza (8343)] INFO : Dispatcher: webrick
+[05/02/12 21:27:23 +0530 seeker-kuliza (8343)] INFO : Application: Graylog2
+[05/02/12 21:27:23 +0530 seeker-kuliza (8343)] ERROR : Invalid license key: here
+[05/02/12 21:27:23 +0530 seeker-kuliza (8343)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8343
+[05/02/12 21:27:23 +0530 seeker-kuliza (8343)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 22:01:36 +0530 seeker-kuliza (9769)] INFO : Dispatcher: webrick
+[05/02/12 22:01:36 +0530 seeker-kuliza (9769)] INFO : Application: Graylog2
+[05/02/12 22:01:36 +0530 seeker-kuliza (9769)] ERROR : Invalid license key: here
+[05/02/12 22:01:36 +0530 seeker-kuliza (9769)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9769
+[05/02/12 22:01:36 +0530 seeker-kuliza (9769)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 22:02:45 +0530 seeker-kuliza (9807)] INFO : Dispatcher: webrick
+[05/02/12 22:02:45 +0530 seeker-kuliza (9807)] INFO : Application: Graylog2
+[05/02/12 22:02:45 +0530 seeker-kuliza (9807)] ERROR : Invalid license key: here
+[05/02/12 22:02:45 +0530 seeker-kuliza (9807)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9807
+[05/02/12 22:02:45 +0530 seeker-kuliza (9807)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 22:34:57 +0530 seeker-kuliza (10768)] INFO : Dispatcher: webrick
+[05/02/12 22:34:57 +0530 seeker-kuliza (10768)] INFO : Application: Graylog2
+[05/02/12 22:34:57 +0530 seeker-kuliza (10768)] ERROR : Invalid license key: here
+[05/02/12 22:34:57 +0530 seeker-kuliza (10768)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10768
+[05/02/12 22:34:57 +0530 seeker-kuliza (10768)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 22:35:53 +0530 seeker-kuliza (10801)] INFO : Dispatcher: webrick
+[05/02/12 22:35:53 +0530 seeker-kuliza (10801)] INFO : Application: Graylog2
+[05/02/12 22:35:53 +0530 seeker-kuliza (10801)] ERROR : Invalid license key: here
+[05/02/12 22:35:53 +0530 seeker-kuliza (10801)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 10801
+[05/02/12 22:35:53 +0530 seeker-kuliza (10801)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 22:41:05 +0530 seeker-kuliza (11307)] INFO : Dispatcher: webrick
+[05/02/12 22:41:05 +0530 seeker-kuliza (11307)] INFO : Application: Graylog2
+[05/02/12 22:41:05 +0530 seeker-kuliza (11307)] ERROR : Invalid license key: here
+[05/02/12 22:41:05 +0530 seeker-kuliza (11307)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 11307
+[05/02/12 22:41:05 +0530 seeker-kuliza (11307)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 22:58:51 +0530 seeker-kuliza (11781)] INFO : Dispatcher: webrick
+[05/02/12 22:58:51 +0530 seeker-kuliza (11781)] INFO : Application: Graylog2
+[05/02/12 22:58:51 +0530 seeker-kuliza (11781)] ERROR : Invalid license key: here
+[05/02/12 22:58:51 +0530 seeker-kuliza (11781)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 11781
+[05/02/12 22:58:51 +0530 seeker-kuliza (11781)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:04:17 +0530 seeker-kuliza (11926)] INFO : Dispatcher: webrick
+[05/02/12 23:04:17 +0530 seeker-kuliza (11926)] INFO : Application: Graylog2
+[05/02/12 23:04:17 +0530 seeker-kuliza (11926)] ERROR : Invalid license key: here
+[05/02/12 23:04:17 +0530 seeker-kuliza (11926)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 11926
+[05/02/12 23:04:17 +0530 seeker-kuliza (11926)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:04:48 +0530 seeker-kuliza (11944)] INFO : Dispatcher: webrick
+[05/02/12 23:04:48 +0530 seeker-kuliza (11944)] INFO : Application: Graylog2
+[05/02/12 23:04:48 +0530 seeker-kuliza (11944)] ERROR : Invalid license key: here
+[05/02/12 23:04:48 +0530 seeker-kuliza (11944)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 11944
+[05/02/12 23:04:48 +0530 seeker-kuliza (11944)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:05:50 +0530 seeker-kuliza (11973)] INFO : Dispatcher: webrick
+[05/02/12 23:05:50 +0530 seeker-kuliza (11973)] INFO : Application: Graylog2
+[05/02/12 23:05:50 +0530 seeker-kuliza (11973)] ERROR : Invalid license key: here
+[05/02/12 23:05:50 +0530 seeker-kuliza (11973)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 11973
+[05/02/12 23:05:50 +0530 seeker-kuliza (11973)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:06:16 +0530 seeker-kuliza (11987)] INFO : Dispatcher: webrick
+[05/02/12 23:06:16 +0530 seeker-kuliza (11987)] INFO : Application: Graylog2
+[05/02/12 23:06:16 +0530 seeker-kuliza (11987)] ERROR : Invalid license key: here
+[05/02/12 23:06:16 +0530 seeker-kuliza (11987)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 11987
+[05/02/12 23:06:16 +0530 seeker-kuliza (11987)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:07:02 +0530 seeker-kuliza (12013)] INFO : Dispatcher: webrick
+[05/02/12 23:07:02 +0530 seeker-kuliza (12013)] INFO : Application: Graylog2
+[05/02/12 23:07:02 +0530 seeker-kuliza (12013)] ERROR : Invalid license key: here
+[05/02/12 23:07:02 +0530 seeker-kuliza (12013)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 12013
+[05/02/12 23:07:02 +0530 seeker-kuliza (12013)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:08:01 +0530 seeker-kuliza (12043)] INFO : Dispatcher: webrick
+[05/02/12 23:08:01 +0530 seeker-kuliza (12043)] INFO : Application: Graylog2
+[05/02/12 23:08:01 +0530 seeker-kuliza (12043)] ERROR : Invalid license key: here
+[05/02/12 23:08:01 +0530 seeker-kuliza (12043)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 12043
+[05/02/12 23:08:01 +0530 seeker-kuliza (12043)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:09:09 +0530 seeker-kuliza (12085)] INFO : Dispatcher: webrick
+[05/02/12 23:09:09 +0530 seeker-kuliza (12085)] INFO : Application: Graylog2
+[05/02/12 23:09:09 +0530 seeker-kuliza (12085)] ERROR : Invalid license key: here
+[05/02/12 23:09:09 +0530 seeker-kuliza (12085)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 12085
+[05/02/12 23:09:09 +0530 seeker-kuliza (12085)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:10:17 +0530 seeker-kuliza (12120)] INFO : Dispatcher: webrick
+[05/02/12 23:10:17 +0530 seeker-kuliza (12120)] INFO : Application: Graylog2
+[05/02/12 23:10:17 +0530 seeker-kuliza (12120)] ERROR : Invalid license key: here
+[05/02/12 23:10:17 +0530 seeker-kuliza (12120)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 12120
+[05/02/12 23:10:17 +0530 seeker-kuliza (12120)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:11:27 +0530 seeker-kuliza (12155)] INFO : Dispatcher: webrick
+[05/02/12 23:11:27 +0530 seeker-kuliza (12155)] INFO : Application: Graylog2
+[05/02/12 23:11:27 +0530 seeker-kuliza (12155)] ERROR : Invalid license key: here
+[05/02/12 23:11:27 +0530 seeker-kuliza (12155)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 12155
+[05/02/12 23:11:27 +0530 seeker-kuliza (12155)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:12:37 +0530 seeker-kuliza (12189)] INFO : Dispatcher: webrick
+[05/02/12 23:12:37 +0530 seeker-kuliza (12189)] INFO : Application: Graylog2
+[05/02/12 23:12:37 +0530 seeker-kuliza (12189)] ERROR : Invalid license key: here
+[05/02/12 23:12:37 +0530 seeker-kuliza (12189)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 12189
+[05/02/12 23:12:37 +0530 seeker-kuliza (12189)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:33:16 +0530 seeker-kuliza (12741)] INFO : Dispatcher: webrick
+[05/02/12 23:33:16 +0530 seeker-kuliza (12741)] INFO : Application: Graylog2
+[05/02/12 23:33:16 +0530 seeker-kuliza (12741)] ERROR : Invalid license key: here
+[05/02/12 23:33:16 +0530 seeker-kuliza (12741)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 12741
+[05/02/12 23:33:16 +0530 seeker-kuliza (12741)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:34:24 +0530 seeker-kuliza (12781)] INFO : Dispatcher: webrick
+[05/02/12 23:34:24 +0530 seeker-kuliza (12781)] INFO : Application: Graylog2
+[05/02/12 23:34:24 +0530 seeker-kuliza (12781)] ERROR : Invalid license key: here
+[05/02/12 23:34:24 +0530 seeker-kuliza (12781)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 12781
+[05/02/12 23:34:24 +0530 seeker-kuliza (12781)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:40:14 +0530 seeker-kuliza (12944)] INFO : Dispatcher: webrick
+[05/02/12 23:40:14 +0530 seeker-kuliza (12944)] INFO : Application: Graylog2
+[05/02/12 23:40:14 +0530 seeker-kuliza (12944)] ERROR : Invalid license key: here
+[05/02/12 23:40:14 +0530 seeker-kuliza (12944)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 12944
+[05/02/12 23:40:14 +0530 seeker-kuliza (12944)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/02/12 23:55:51 +0530 seeker-kuliza (13637)] INFO : Dispatcher: webrick
+[05/02/12 23:55:51 +0530 seeker-kuliza (13637)] INFO : Application: Graylog2
+[05/02/12 23:55:51 +0530 seeker-kuliza (13637)] ERROR : Invalid license key: here
+[05/02/12 23:55:51 +0530 seeker-kuliza (13637)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 13637
+[05/02/12 23:55:51 +0530 seeker-kuliza (13637)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:09:32 +0530 seeker-kuliza (14103)] INFO : Dispatcher: webrick
+[05/03/12 00:09:32 +0530 seeker-kuliza (14103)] INFO : Application: Graylog2
+[05/03/12 00:09:32 +0530 seeker-kuliza (14103)] ERROR : Invalid license key: here
+[05/03/12 00:09:32 +0530 seeker-kuliza (14103)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 14103
+[05/03/12 00:09:32 +0530 seeker-kuliza (14103)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:10:46 +0530 seeker-kuliza (14136)] INFO : Dispatcher: webrick
+[05/03/12 00:10:46 +0530 seeker-kuliza (14136)] INFO : Application: Graylog2
+[05/03/12 00:10:46 +0530 seeker-kuliza (14136)] ERROR : Invalid license key: here
+[05/03/12 00:10:46 +0530 seeker-kuliza (14136)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 14136
+[05/03/12 00:10:46 +0530 seeker-kuliza (14136)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:26:06 +0530 seeker-kuliza (14782)] INFO : Dispatcher: webrick
+[05/03/12 00:26:06 +0530 seeker-kuliza (14782)] INFO : Application: Graylog2
+[05/03/12 00:26:06 +0530 seeker-kuliza (14782)] ERROR : Invalid license key: here
+[05/03/12 00:26:06 +0530 seeker-kuliza (14782)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 14782
+[05/03/12 00:26:06 +0530 seeker-kuliza (14782)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:32:05 +0530 seeker-kuliza (15030)] INFO : Dispatcher: webrick
+[05/03/12 00:32:05 +0530 seeker-kuliza (15030)] INFO : Application: Graylog2
+[05/03/12 00:32:05 +0530 seeker-kuliza (15030)] ERROR : Invalid license key: here
+[05/03/12 00:32:05 +0530 seeker-kuliza (15030)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15030
+[05/03/12 00:32:05 +0530 seeker-kuliza (15030)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:33:58 +0530 seeker-kuliza (15083)] INFO : Dispatcher: webrick
+[05/03/12 00:33:58 +0530 seeker-kuliza (15083)] INFO : Application: Graylog2
+[05/03/12 00:33:58 +0530 seeker-kuliza (15083)] ERROR : Invalid license key: here
+[05/03/12 00:33:58 +0530 seeker-kuliza (15083)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15083
+[05/03/12 00:33:58 +0530 seeker-kuliza (15083)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:34:57 +0530 seeker-kuliza (15117)] INFO : Dispatcher: webrick
+[05/03/12 00:34:57 +0530 seeker-kuliza (15117)] INFO : Application: Graylog2
+[05/03/12 00:34:57 +0530 seeker-kuliza (15117)] ERROR : Invalid license key: here
+[05/03/12 00:34:57 +0530 seeker-kuliza (15117)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15117
+[05/03/12 00:34:57 +0530 seeker-kuliza (15117)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:37:29 +0530 seeker-kuliza (15190)] INFO : Dispatcher: webrick
+[05/03/12 00:37:29 +0530 seeker-kuliza (15190)] INFO : Application: Graylog2
+[05/03/12 00:37:29 +0530 seeker-kuliza (15190)] ERROR : Invalid license key: here
+[05/03/12 00:37:29 +0530 seeker-kuliza (15190)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15190
+[05/03/12 00:37:29 +0530 seeker-kuliza (15190)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:45:54 +0530 seeker-kuliza (15420)] INFO : Dispatcher: webrick
+[05/03/12 00:45:54 +0530 seeker-kuliza (15420)] INFO : Application: Graylog2
+[05/03/12 00:45:54 +0530 seeker-kuliza (15420)] ERROR : Invalid license key: here
+[05/03/12 00:45:54 +0530 seeker-kuliza (15420)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15420
+[05/03/12 00:45:54 +0530 seeker-kuliza (15420)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:46:29 +0530 seeker-kuliza (15439)] INFO : Dispatcher: webrick
+[05/03/12 00:46:29 +0530 seeker-kuliza (15439)] INFO : Application: Graylog2
+[05/03/12 00:46:29 +0530 seeker-kuliza (15439)] ERROR : Invalid license key: here
+[05/03/12 00:46:29 +0530 seeker-kuliza (15439)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15439
+[05/03/12 00:46:29 +0530 seeker-kuliza (15439)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 00:48:02 +0530 seeker-kuliza (15480)] INFO : Dispatcher: webrick
+[05/03/12 00:48:02 +0530 seeker-kuliza (15480)] INFO : Application: Graylog2
+[05/03/12 00:48:02 +0530 seeker-kuliza (15480)] ERROR : Invalid license key: here
+[05/03/12 00:48:02 +0530 seeker-kuliza (15480)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15480
+[05/03/12 00:48:02 +0530 seeker-kuliza (15480)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 01:03:34 +0530 seeker-kuliza (15904)] INFO : Dispatcher: webrick
+[05/03/12 01:03:34 +0530 seeker-kuliza (15904)] INFO : Application: Graylog2
+[05/03/12 01:03:34 +0530 seeker-kuliza (15904)] ERROR : Invalid license key: here
+[05/03/12 01:03:34 +0530 seeker-kuliza (15904)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15904
+[05/03/12 01:03:34 +0530 seeker-kuliza (15904)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 01:04:12 +0530 seeker-kuliza (15924)] INFO : Dispatcher: webrick
+[05/03/12 01:04:12 +0530 seeker-kuliza (15924)] INFO : Application: Graylog2
+[05/03/12 01:04:12 +0530 seeker-kuliza (15924)] ERROR : Invalid license key: here
+[05/03/12 01:04:12 +0530 seeker-kuliza (15924)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 15924
+[05/03/12 01:04:12 +0530 seeker-kuliza (15924)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 01:11:04 +0530 seeker-kuliza (16113)] INFO : Dispatcher: webrick
+[05/03/12 01:11:04 +0530 seeker-kuliza (16113)] INFO : Application: Graylog2
+[05/03/12 01:11:04 +0530 seeker-kuliza (16113)] ERROR : Invalid license key: here
+[05/03/12 01:11:04 +0530 seeker-kuliza (16113)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16113
+[05/03/12 01:11:04 +0530 seeker-kuliza (16113)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 01:11:53 +0530 seeker-kuliza (16139)] INFO : Dispatcher: webrick
+[05/03/12 01:11:53 +0530 seeker-kuliza (16139)] INFO : Application: Graylog2
+[05/03/12 01:11:53 +0530 seeker-kuliza (16139)] ERROR : Invalid license key: here
+[05/03/12 01:11:53 +0530 seeker-kuliza (16139)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16139
+[05/03/12 01:11:53 +0530 seeker-kuliza (16139)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 01:13:29 +0530 seeker-kuliza (16190)] INFO : Dispatcher: webrick
+[05/03/12 01:13:29 +0530 seeker-kuliza (16190)] INFO : Application: Graylog2
+[05/03/12 01:13:29 +0530 seeker-kuliza (16190)] ERROR : Invalid license key: here
+[05/03/12 01:13:29 +0530 seeker-kuliza (16190)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16190
+[05/03/12 01:13:29 +0530 seeker-kuliza (16190)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 01:14:58 +0530 seeker-kuliza (16233)] INFO : Dispatcher: webrick
+[05/03/12 01:14:58 +0530 seeker-kuliza (16233)] INFO : Application: Graylog2
+[05/03/12 01:14:58 +0530 seeker-kuliza (16233)] ERROR : Invalid license key: here
+[05/03/12 01:14:58 +0530 seeker-kuliza (16233)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16233
+[05/03/12 01:14:58 +0530 seeker-kuliza (16233)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 01:16:37 +0530 seeker-kuliza (16281)] INFO : Dispatcher: webrick
+[05/03/12 01:16:37 +0530 seeker-kuliza (16281)] INFO : Application: Graylog2
+[05/03/12 01:16:37 +0530 seeker-kuliza (16281)] ERROR : Invalid license key: here
+[05/03/12 01:16:37 +0530 seeker-kuliza (16281)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16281
+[05/03/12 01:16:37 +0530 seeker-kuliza (16281)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 01:17:57 +0530 seeker-kuliza (16321)] INFO : Dispatcher: webrick
+[05/03/12 01:17:57 +0530 seeker-kuliza (16321)] INFO : Application: Graylog2
+[05/03/12 01:17:57 +0530 seeker-kuliza (16321)] ERROR : Invalid license key: here
+[05/03/12 01:17:57 +0530 seeker-kuliza (16321)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16321
+[05/03/12 01:17:57 +0530 seeker-kuliza (16321)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/03/12 01:19:03 +0530 seeker-kuliza (16353)] INFO : Dispatcher: webrick
+[05/03/12 01:19:03 +0530 seeker-kuliza (16353)] INFO : Application: Graylog2
+[05/03/12 01:19:03 +0530 seeker-kuliza (16353)] ERROR : Invalid license key: here
+[05/03/12 01:19:03 +0530 seeker-kuliza (16353)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16353
+[05/03/12 01:19:03 +0530 seeker-kuliza (16353)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log

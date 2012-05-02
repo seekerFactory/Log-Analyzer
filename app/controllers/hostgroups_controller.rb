@@ -28,18 +28,21 @@ class HostgroupsController < ApplicationController
     @collected_hosts = Host.all_of_group(@hostgroup).sort_by { |h| h.host }
 
 #
-    @hostall = Host.all :conditions => { :host.in => @hostgroup.all_conditions }
+    @hostall = Host.all :conditions => { :host.in => @hostgroup.regex_conditions }
 
-#    names = []
-#    @hostgroup.each{ |grp| names.push(grp.name)}
-#    flash[:error] = names
-#    flash[:error] = @hostgroup.name
+    names = []
+    names_hosts = HostgroupHost.all :conditions => { :hostgroup_id => @hostgroup.id }
+#    @hostgroup.name.each{ |grp| names.push(hostname.grp}
+    @collected_hosts = names_hosts
+#    names_hosts.each{ |grp| names.push(grp)}
+#    flash[:error] = names_hosts.count
+#    flash[:error] = HostgroupHost.count_of_hostgroup @hostgroup
 #    flash[:error] = ["trouble with hg ", @hostgroup]
 
 #    flash[:error] = ["trouble: ", @collected_hosts]
 #    @hostall.each { |key| flash[:error] = ["hostall ", key, " => " ] }
 
-#    flash[:error] = ["trouble: ", @collected_hosts]
+#    flash[:error] = ["trouble: ", @hostall.count]
 
   end
 

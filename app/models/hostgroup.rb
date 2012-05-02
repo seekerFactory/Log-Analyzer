@@ -21,7 +21,6 @@ class Hostgroup
 
   def fetch_payload(type, with_id = false)
     p = Array.new
-
     self.hostgroup_hosts.each do |hostdescription|
       next if hostdescription.ruletype != type
 

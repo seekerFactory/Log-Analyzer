@@ -45,7 +45,6 @@
   <br />
 
   <h2>Currently collected hosts</h2>
-  <ul>Testing hostgroup <%= @hostgroup.name %></ul>
   <ul>
   <% if @hostgroup.hostgroup_hosts.blank? %>
     No rules in this group.
@@ -54,7 +53,8 @@
       No hosts collected.
     <% else %>
       <%= @collected_hosts.each do |host| -%>
-        <li><%= host.host %></li>
+	<% next if (host.hostname.blank?) %>
+          <li><%= link_to host.hostname %></li>
       <% end %>
     <% end %>
   <% end %>
