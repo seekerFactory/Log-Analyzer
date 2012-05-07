@@ -3009,3 +3009,38 @@
 [05/03/12 01:19:03 +0530 seeker-kuliza (16353)] ERROR : Invalid license key: here
 [05/03/12 01:19:03 +0530 seeker-kuliza (16353)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 16353
 [05/03/12 01:19:03 +0530 seeker-kuliza (16353)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/07/12 09:19:33 +0530 seeker-kuliza (8912)] INFO : Dispatcher: webrick
+[05/07/12 09:19:33 +0530 seeker-kuliza (8912)] INFO : Application: Graylog2
+[05/07/12 09:19:33 +0530 seeker-kuliza (8912)] WARN : Agent configured not to send data in this environment - edit newrelic.yml to change this
+[05/07/12 09:19:33 +0530 seeker-kuliza (8912)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 8912
+[05/07/12 09:19:33 +0530 seeker-kuliza (8912)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/07/12 09:23:10 +0530 seeker-kuliza (9195)] INFO : Dispatcher: passenger
+[05/07/12 09:23:10 +0530 seeker-kuliza (9195)] INFO : Application: Graylog2
+[05/07/12 09:23:10 +0530 seeker-kuliza (9195)] ERROR : Invalid license key: here
+[05/07/12 09:23:10 +0530 seeker-kuliza (9195)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9195
+[05/07/12 09:23:10 +0530 seeker-kuliza (9195)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/07/12 09:23:10 +0530 seeker-kuliza (9195)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[05/07/12 09:23:12 +0530 seeker-kuliza (9195)] INFO : Starting the worker thread in 9195 after forking.
+[05/07/12 09:23:22 +0530 seeker-kuliza (9195)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[05/07/12 09:23:23 +0530 seeker-kuliza (9195)] ERROR : Invalid license key, please contact support@newrelic.com
+[05/07/12 09:23:23 +0530 seeker-kuliza (9195)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[05/07/12 09:24:05 +0530 seeker-kuliza (9288)] INFO : Dispatcher: passenger
+[05/07/12 09:24:05 +0530 seeker-kuliza (9288)] INFO : Application: Graylog2
+[05/07/12 09:24:05 +0530 seeker-kuliza (9288)] ERROR : Invalid license key: here
+[05/07/12 09:24:05 +0530 seeker-kuliza (9288)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9288
+[05/07/12 09:24:05 +0530 seeker-kuliza (9288)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/07/12 09:24:05 +0530 seeker-kuliza (9288)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[05/07/12 09:24:06 +0530 seeker-kuliza (9288)] INFO : Starting the worker thread in 9288 after forking.
+[05/07/12 09:24:10 +0530 seeker-kuliza (9300)] INFO : Dispatcher: passenger
+[05/07/12 09:24:10 +0530 seeker-kuliza (9300)] INFO : Application: Graylog2
+[05/07/12 09:24:10 +0530 seeker-kuliza (9300)] ERROR : Invalid license key: here
+[05/07/12 09:24:10 +0530 seeker-kuliza (9300)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 9300
+[05/07/12 09:24:10 +0530 seeker-kuliza (9300)] INFO : Agent Log at /home/seeker/katana/graylog2/graymake/graymake-web/log/newrelic_agent.log
+[05/07/12 09:24:10 +0530 seeker-kuliza (9300)] WARN : An older version of Phusion Passenger has been detected.  We recommend using at least release 2.1.1.
+[05/07/12 09:24:12 +0530 seeker-kuliza (9300)] INFO : Starting the worker thread in 9300 after forking.
+[05/07/12 09:24:17 +0530 seeker-kuliza (9288)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[05/07/12 09:24:17 +0530 seeker-kuliza (9288)] ERROR : Invalid license key, please contact support@newrelic.com
+[05/07/12 09:24:17 +0530 seeker-kuliza (9288)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[05/07/12 09:24:22 +0530 seeker-kuliza (9300)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[05/07/12 09:24:24 +0530 seeker-kuliza (9300)] ERROR : Invalid license key, please contact support@newrelic.com
+[05/07/12 09:24:24 +0530 seeker-kuliza (9300)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
