@@ -12,12 +12,13 @@ class UsersController < ApplicationController
   layout :choose_layout
 
   def index
-#    still super admin visible from same group for nonsuperadmin
-    @users = current_user.super == 1 ? User.find( :all) : User.find(:all, :conditions => { :host_group => current_user.host_group })
-#    @users = current_user.super == 1 ? User.find( :all) : User.where( :host_group => current_user.host_group, :super != 1)
-#    @users = current_user.super == 1 ? @Allusers : @Allusers.where("super != ?", 1 )
-
-
+    if (current_user.super == 1 and current_user.role == "admin")
+      #  All users for superadmin
+      @users = User.find( :all)
+    else
+      # All except superadmin for admin user, will shift to users in related HG
+      @users = User.find(:all, :conditions =>  { :$or => [{:role => "reader"}, { :$and => [ { :super => { :$ne => 1}}, { :role => "admin"} ] } ]})
+    end
 
   end
 
@@ -106,7 +107,7 @@ class UsersController < ApplicationController
     success = @user && @user.save
     if success && @user.errors.empty?
       redirect_to messages_path
-      flash[:notice] = "Your first user has been created. Welcome to Graylog2!"
+      flash[:notice] = "Your first user has been created. Welcome to Log-Analyzer!"
     else
       render :action => 'first'
     end

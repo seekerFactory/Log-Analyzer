@@ -22,6 +22,11 @@ additional_columns ||= []
     })
   });
 </script>
+<div id="messages-top">
+  <% if current_user.role == 'admin' %>
+    <%= link_to 'Export', :controller => 'messages', :action =>'getexport', :pagenumber => current_page, :msgids => @msgids %>
+  <% end %>
+</div>
 
 <table class="messages<%= defined?(@inline_version) ? " messages-inline" : nil %>">
   <thead>

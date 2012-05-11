@@ -1,1 +1,2 @@
 log/development.log log/newrelic_agent.log log/production.log
+tmp/*

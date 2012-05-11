@@ -15,33 +15,33 @@
   </div>
 
   <div id="hostgroups-add-hosts-regex">
-  <%= form_for :new_host, :url => { :controller => "hostgroup_hosts", :action => 'create' } do |f| -%>
-    <%= label_tag 'hostname', 'Regular expression' %>:
-    <%= f.text_field :hostname %>
-    <%= hidden_field_tag 'new_host[hostgroup_id]', @hostgroup.id %>
-    <%= hidden_field_tag 'new_host[ruletype]', HostgroupHost::TYPE_REGEX %>
-    <%= awesome_submit_link "Add" %> 
-  <% end %>
+  <!--%= form_for :new_host, :url => { :controller => "hostgroup_hosts", :action => 'create' } do |f| -%-->
+    <!--%= label_tag 'hostname', 'Regular expression' %>: -->
+    <!--%= f.text_field :hostname %-->
+    <!--%= hidden_field_tag 'new_host[hostgroup_id]', @hostgroup.id %-->
+    <!--%= hidden_field_tag 'new_host[ruletype]', HostgroupHost::TYPE_REGEX %-->
+    <!--%= awesome_submit_link "Add" %--> 
+  <!--% end %-->
   </div>
   <br style="clear: both;" />
 </div>
 
 <div id="hostgroups-add-left">
-  <h2>Rules</h2>
+  <!--h2>Rules</h2>
   <div class="short-description">Click on a rule to remove it.</div>
 
-  <ul>
-  <% if @hostgroup.hostname_conditions.blank? and @hostgroup.regex_conditions.blank? %>
-    No rules in this group.
-  <% else %>
-    <%= @hostgroup.hostname_conditions(true).each do |rule| -%>
-      <li>Host: <%= link_to rule[:value], :controller => "hostgroup_hosts", :action => "destroy", :id => rule[:id], :group_id => @hostgroup.id %></li>
-    <% end %>
-    <%= @hostgroup.regex_conditions(true).each do |rule| -%>
-      <li>Regex: <%= link_to rule[:value].source, :controller => "hostgroup_hosts", :action => "destroy", :id => rule[:id], :group_id => @hostgroup.id %></li>
-    <% end %>
-  <% end %>
-  </ul>
+  <ul-->
+  <!--% if @hostgroup.hostname_conditions.blank? and @hostgroup.regex_conditions.blank? %-->
+   <!-- No rules in this group.-->
+  <!--% else %-->
+    <!--%= @hostgroup.hostname_conditions(true).each do |rule| -%-->
+      <!--li>Host: <--><!--%= link_to rule[:value], :controller => "hostgroup_hosts", :action => "destroy", :id => rule[:id], :group_id => @hostgroup.id %></li-->
+    <!--% end %-->
+    <!--%= @hostgroup.regex_conditions(true).each do |rule| -%-->
+      <!--li>Regex: <--><!--%= link_to rule[:value].source, :controller => "hostgroup_hosts", :action => "destroy", :id => rule[:id], :group_id => @hostgroup.id %></li-->
+    <!--% end %-->
+  <!--% end %-->
+  <!--/ul-->
   <br />
 
   <h2>Currently collected hosts</h2>
@@ -54,7 +54,8 @@
     <% else %>
       <%= @collected_hosts.each do |host| -%>
 	<% next if (host.hostname.blank?) %>
-          <li><%= link_to host.hostname %></li>
+          <!--li--><!--%= link_to host.hostname %--><!--/li-->
+          <li><%= link_to(host.hostname, host_messages_path(host.hostname)) %></li>
       <% end %>
     <% end %>
   <% end %>

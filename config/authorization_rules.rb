@@ -6,6 +6,7 @@ authorization do
       :destroy,
       :getcompletemessage,
       :getsimilarmessages,
+      :getexport,
       :showrange,
       :deletebyquickfilter,
       :deletebystream,

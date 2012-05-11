@@ -1,0 +1,3 @@
+1  ID: C1W74ZswSay3cLhIJfCLqg	DATE: 2012-4-25	MESSAGE: seeker-kuliza apache2-002[10092]: procurios-syslog
+2  ID: Oai5AtMhTDWDpFJjWWoXXg	DATE: 2012-4-25	MESSAGE: seeker-kuliza apache2-002[7839]: procurios-syslog
+3  ID: msmF_7_0TjGR30umnKCAWA	DATE: 2012-4-25	MESSAGE: seeker-kuliza CRON[8004]: [FILTERED](cron:session): session opened for user root by (uid=0)

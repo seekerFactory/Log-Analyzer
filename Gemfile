@@ -19,7 +19,6 @@ gem 'rails_autolink', '~> 1.0.4'
 gem 'kaminari', '~> 0.12.4'
 gem 'prawn'
 
-
 group :development, :test do
   # might be useful to generate fake data in development
   gem 'machinist_mongo', '~> 1.2.0', :require => 'machinist/mongoid'

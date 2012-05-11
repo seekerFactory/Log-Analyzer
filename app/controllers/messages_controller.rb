@@ -18,6 +18,7 @@ class MessagesController < ApplicationController
         @quickfilter_result_count = @messages.total_result_count
       end
       @total_count = @messages.total_result_count
+      allmessage_ids(@messages) 
     elsif params[:stream_id]
       @scoping = :stream
       @stream = Stream.find_by_id(params[:stream_id])
@@ -35,6 +36,7 @@ class MessagesController < ApplicationController
         @quickfilter_result_count = @messages.total_result_count
         @total_count = MessageGateway.stream_count(@stream.id) # XXX ELASTIC Possibly read cached from first all_paginated result?!
       end
+      allmessage_ids(@messages) 
     else
       @scoping = :messages
       unless (params[:action] == "show")
@@ -50,6 +52,7 @@ class MessagesController < ApplicationController
         @quickfilter_result_count = @messages.total_result_count
         @total_count = MessageGateway.total_count # XXX ELASTIC Possibly read cached from first all_paginated result?!
       end
+      allmessage_ids(@messages) 
     end
   rescue Tire::Search::SearchRequestFailed
       flash[:error] = "Syntax error in search query or empty index."
@@ -62,11 +65,27 @@ class MessagesController < ApplicationController
   def block_access_for_non_admins
 #    if current_user.role != "admin"
 # changed to super admins only
+    if (current_user.role != "admin" )
+      flash[:error] = "You have no access rights for this section."
+      redirect_to :controller => "streams", :action => "index"
+    end
+  end
+  def block_access_for_non_superadmins
+#    if current_user.role != "admin"
+# changed to super admins only
     if !(current_user.role == "admin" and current_user.super == 1)
       flash[:error] = "You have no access rights for this section."
       redirect_to :controller => "streams", :action => "index"
     end
   end
+
+  def allmessage_ids(messages)
+      msgids = [] 
+      messages.each do |message|
+        msgids.push(message.id) 
+      end
+      @msgids = msgids
+  end 
 
   public
   def index
@@ -120,6 +139,46 @@ class MessagesController < ApplicationController
 
     @messages = MessageGateway.all_in_range(params[:page], @from.to_i, @to.to_i)
     @total_count = @messages.total_result_count
+  end
+
+  def getexport
+    pagenum = params[:pagenumber]
+
+    messageids = params[:msgids]
+#    Rails.logger.error "for messageids  =====>#{messageids}"
+
+#    messages = MessageGateway.all_paginated(pagenum)
+#    messages = MessageGateway.all_of_stream_paginated(@stream.id, params[:page])
+
+#    filename = "/home/seeker/loaders/grayweb/tmp/message.txt"
+
+#Rails.root.join(&quot;tmp/message.txt&quot
+
+    filename = Rails.root.join("tmp/message.txt")
+    Rails.logger.error "Test Rails.root  =====>#{filename}"
+
+   # directory = "/home/seeker/loaders/grayweb/tmp"
+
+#    f = File.open(filename, "w")
+    f = File.open(filename, "w")
+    f.sync = true
+    count = 1
+    messageids.each do |id| 
+      message = MessageGateway.retrieve_by_id(id)
+      f.write("#{count}  ID: ")
+      f.write(message.id)
+      f.write("\t")
+      f.write("DATE: ")
+      f.write(message.uniform_date_string)
+      f.write("\t")
+      f.write("MESSAGE: ")
+      f.write(message.message)
+      f.write("\n")
+      count += 1
+    end
+   
+   send_file filename, :type => 'plain/text', filename => filename
+
   end
 
   def getcompletemessage

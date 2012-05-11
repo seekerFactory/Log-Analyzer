@@ -38,10 +38,14 @@
   </dd>
 
   <!-- modified here --> 
-  <dt><%= label_tag 'super' %></dt>
   <dd>
-    <%= f.text_field :super %>
-    <span class="highlighted"><%= @user.errors[:super].join(" and ")%></span>
+    <% if (current_user.role == 'admin' and current_user.super == 1) %>
+      <dt><%= label_tag 'super' %></dt>
+      <%= f.text_field :super %>
+      <span class="highlighted"><%= @user.errors[:super].join(" and ")%></span>
+    <% else %>
+      <%  f.select(:super, [0], :selected => (user.super.blank? ? "0" : @user.super)) %>
+    <% end %>
   </dd>
 
   <dt><!--%= label_tag 'just for test :) delete later'%--></dt>
