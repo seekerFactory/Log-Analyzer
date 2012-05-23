@@ -1,3 +1,24 @@
-1  ID: C1W74ZswSay3cLhIJfCLqg	DATE: 2012-4-25	MESSAGE: seeker-kuliza apache2-002[10092]: procurios-syslog
-2  ID: Oai5AtMhTDWDpFJjWWoXXg	DATE: 2012-4-25	MESSAGE: seeker-kuliza apache2-002[7839]: procurios-syslog
-3  ID: msmF_7_0TjGR30umnKCAWA	DATE: 2012-4-25	MESSAGE: seeker-kuliza CRON[8004]: [FILTERED](cron:session): session opened for user root by (uid=0)
+1  ID: QtY-KVkFTG-MvtdNpAHXIA	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2  ID: uQy_6VadThKc8Rwvk2xupw	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 4:18:29 PM org.apache.jasper.compiler.TldLocationsCache tldScanJar
+3  ID: DbLOndV5Rtqy7FdWIwI-Ew	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:50:57 PM org.apache.catalina.startup.HostConfig deployDescriptor
+4  ID: -ZF7SC1yRHWgt3hm0Cs7Ig	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Deploying web application directory ROOT
+5  ID: pb3mOyiESCuQpKaQPgK2iQ	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:50:58 PM org.apache.coyote.AbstractProtocol start
+6  ID: sncauG4GSqq6eRaN12AGEA	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Deploying configuration descriptor examples.xml from /etc/tomcat7/Catalina/localhost
+7  ID: 4oHkX9TUQJyHrt8SovfcGg	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:50:57 PM org.apache.catalina.startup.HostConfig deployDescriptor
+8  ID: CiFPon58Qse3F6VhXJcZwQ	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Deploying configuration descriptor manager.xml from /etc/tomcat7/Catalina/localhost
+9  ID: 55j0kT4BQZacGhhO_5K6Pw	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:50:58 PM org.apache.catalina.startup.Catalina start
+10  ID: pNH_QtLQTZ--iAGPckJdzg	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Server startup in 1352 ms
+11  ID: EEQ91nyATbGNm5-YUJL2Og	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:50:57 PM org.apache.coyote.AbstractProtocol init
+12  ID: eSH71PaEQPGtiMk1-E1sbQ	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:50:57 PM org.apache.catalina.core.StandardService startInternal
+13  ID: GuAcMUEvSR-vPpELC5ih_g	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Starting Servlet Engine: Apache Tomcat/7.0.21
+14  ID: 6-CPHYIhQs-5NlL6RdA5Mw	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:50:57 PM org.apache.catalina.core.StandardEngine startInternal
+15  ID: zJ9xatehS2G3KHGjRhsH8A	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:50:57 PM org.apache.catalina.startup.Catalina load
+16  ID: -nNVTNv1S9GBl0DkNYkp9A	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Initialization processed in 595 ms
+17  ID: xULb3ITHRSWIYWSybRU7Fw	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Initializing ProtocolHandler ["http-bio-8080"]
+18  ID: titlrC5FS-2IBsQnKRrYKA	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:49:45 PM org.apache.coyote.AbstractProtocol pause
+19  ID: AIdc1sD0Qkmoa_pLu_PVLw	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Stopping service Catalina
+20  ID: 65WgciovR0e3vEccrQCypw	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Stopping ProtocolHandler ["http-bio-8080"]
+21  ID: QT3Ns_hIRSeB8g5-FhMnQw	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:49:46 PM org.apache.catalina.core.StandardService stopInternal
+22  ID: PUrdsNfSSF-UML-pzGXrvQ	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:49:47 PM org.apache.coyote.AbstractProtocol destroy
+23  ID: ewexCQXJQfiVxWOPcz5ogA	DATE: 2012-5-18	MESSAGE: tomcat-error: 18 May, 2012 3:49:47 PM org.apache.coyote.AbstractProtocol stop
+24  ID: QlzUgyPsSAWK6RzCEyJamQ	DATE: 2012-5-18	MESSAGE: tomcat-error: INFO: Destroying ProtocolHandler ["http-bio-8080"]
